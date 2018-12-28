@@ -1,0 +1,962 @@
+21:33:45.647 INFO  [] 
+22:27:41.379 DEBUG [] 
+22:27:41.380 DEBUG appArgv = i:\test.txt 
+22:27:42.967 DEBUG Blur 
+22:27:42.970 DEBUG Focus 
+22:27:45.760 DEBUG Blur 
+22:27:46.642 DEBUG [] 
+22:27:46.643 DEBUG appArgv = i:\test.txt 
+22:27:47.760 DEBUG Blur 
+22:27:47.761 DEBUG Focus 
+22:27:54.235 DEBUG Blur 
+22:27:55.418 DEBUG Focus 
+22:27:57.075 DEBUG Blur 
+22:27:59.496 DEBUG Focus 
+22:28:01.041 DEBUG Blur 
+22:28:02.369 DEBUG Focus 
+22:28:03.229 DEBUG Blur 
+22:28:13.531 DEBUG Focus 
+22:28:16.197 DEBUG Blur 
+22:28:18.231 DEBUG Focus 
+22:28:20.888 DEBUG Blur 
+22:28:24.278 DEBUG Focus 
+22:28:25.099 DEBUG Blur 
+22:28:41.752 DEBUG Focus 
+22:50:56.230 DEBUG [] 
+22:50:56.232 DEBUG appArgv = i:\test.txt 
+22:50:56.261 DEBUG Drive letter: i 
+22:50:56.496 DEBUG \\dr_nas\dr_it\\test.txt 
+22:50:58.199 DEBUG Blur 
+22:51:03.219 DEBUG Focus 
+22:51:05.895 DEBUG Blur 
+22:51:45.619 DEBUG [] 
+22:51:45.621 DEBUG appArgv = i:\test.txt 
+22:51:45.646 DEBUG Drive letter: i 
+22:51:48.014 DEBUG Blur 
+22:51:54.838 DEBUG Focus 
+22:51:55.334 DEBUG Blur 
+22:51:57.112 DEBUG Focus 
+22:52:01.002 DEBUG Blur 
+22:52:36.857 DEBUG [] 
+22:52:36.859 DEBUG appArgv = i:\test.txt 
+22:52:36.880 DEBUG Drive letter: i 
+22:52:38.842 DEBUG Blur 
+22:53:06.361 DEBUG [] 
+22:53:06.363 DEBUG appArgv = i:\test.txt 
+22:53:06.383 DEBUG Drive letter: i 
+22:53:08.221 DEBUG Blur 
+22:53:11.191 DEBUG Focus 
+22:53:11.610 DEBUG Blur 
+22:53:12.716 DEBUG Focus 
+22:53:13.099 DEBUG Blur 
+22:53:34.222 DEBUG [] 
+22:53:34.225 DEBUG appArgv = i:\test.txt 
+22:53:34.249 DEBUG Drive letter: i 
+22:53:34.417 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+22:53:34.417 DEBUG \\dr_nas\dr_it\\test.txt 
+22:53:35.521 DEBUG Blur 
+22:54:35.948 DEBUG [] 
+22:54:35.949 DEBUG appArgv = i:\test.txt 
+22:54:35.969 DEBUG Drive letter: i 
+22:54:36.150 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+22:54:37.873 DEBUG Blur 
+22:54:53.609 DEBUG Focus 
+22:54:53.700 DEBUG Blur 
+23:00:13.999 DEBUG [] 
+23:00:14.001 DEBUG appArgv = I:\test.txt 
+23:00:14.030 DEBUG Drive letter: I 
+23:00:18.592 DEBUG Blur 
+23:00:22.337 DEBUG Focus 
+23:00:22.984 DEBUG Blur 
+23:00:24.239 DEBUG Focus 
+23:00:24.762 DEBUG Blur 
+23:00:42.938 DEBUG [] 
+23:00:42.939 DEBUG appArgv = i:\test.txt 
+23:00:42.957 DEBUG Drive letter: i 
+23:00:43.098 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+23:00:44.017 DEBUG Blur 
+23:01:57.346 DEBUG [] 
+23:01:57.348 DEBUG appArgv = I:\test.txt 
+23:01:57.369 DEBUG Drive letter: i 
+23:01:57.559 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+23:02:01.473 DEBUG Blur 
+23:02:05.685 DEBUG Focus 
+23:02:07.543 DEBUG [] 
+23:02:07.544 DEBUG appArgv = I:\test.txt 
+23:02:07.565 DEBUG Drive letter: i 
+23:02:07.848 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+23:02:09.954 DEBUG Blur 
+23:02:14.050 DEBUG Focus 
+23:02:14.123 DEBUG Blur 
+13:33:13.957 DEBUG [] 
+13:33:13.960 DEBUG appArgv = I:\test.txt 
+13:33:13.979 DEBUG Drive letter: i 
+13:33:14.154 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+13:51:12.139 DEBUG [] 
+13:51:12.141 DEBUG appArgv = I:\test.txt 
+13:51:12.165 DEBUG Drive letter: i 
+13:51:12.345 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+13:53:04.274 DEBUG [] 
+13:53:04.276 DEBUG appArgv = I:\test.txt 
+13:53:04.293 DEBUG Drive letter: i 
+13:53:04.424 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+13:54:22.242 DEBUG [] 
+13:54:22.245 DEBUG appArgv = I:\test.txt 
+13:54:22.268 DEBUG Drive letter: i 
+13:54:22.449 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:01:22.844 DEBUG [] 
+14:02:16.127 DEBUG [] 
+14:02:16.139 DEBUG appArgv = I:\test.txt 
+14:02:16.155 DEBUG Drive letter: i 
+14:02:16.259 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:03:45.051 DEBUG [] 
+14:03:45.064 DEBUG appArgv = I:\test.txt 
+14:03:45.085 DEBUG Drive letter: i 
+14:03:45.203 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:04:16.212 DEBUG [] 
+14:04:16.245 DEBUG appArgv = I:\test.txt 
+14:04:16.267 DEBUG Drive letter: i 
+14:04:16.533 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:04:35.694 DEBUG [] 
+14:04:35.713 DEBUG appArgv = I:\test.txt 
+14:04:35.733 DEBUG Drive letter: i 
+14:04:35.869 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:04:51.918 DEBUG [] 
+14:04:51.932 DEBUG appArgv = I:\test.txt 
+14:04:51.945 DEBUG Drive letter: i 
+14:04:52.047 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:06:49.960 DEBUG [] 
+14:06:49.981 DEBUG appArgv = I:\test.txt 
+14:06:50.002 DEBUG Drive letter: i 
+14:06:50.238 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:07:35.505 DEBUG [] 
+14:07:35.523 DEBUG appArgv = I:\test.txt 
+14:07:35.542 DEBUG Drive letter: i 
+14:07:35.672 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:12:49.413 DEBUG [] 
+14:12:49.433 DEBUG appArgv = I:\test.txt 
+14:12:49.458 DEBUG Drive letter: i 
+14:12:49.595 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:13:17.226 DEBUG [] 
+14:13:17.253 DEBUG appArgv = I:\test.txt 
+14:13:17.281 DEBUG Drive letter: i 
+14:13:17.474 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:13:45.086 DEBUG [] 
+14:13:45.102 DEBUG appArgv = I:\test.txt 
+14:13:45.121 DEBUG Drive letter: i 
+14:13:45.241 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:13:57.316 DEBUG [] 
+14:13:57.335 DEBUG appArgv = I:\test.txt 
+14:13:57.355 DEBUG Drive letter: i 
+14:13:57.514 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:15:14.717 DEBUG [] 
+14:15:14.733 DEBUG appArgv = I:\test.txt 
+14:15:14.756 DEBUG Drive letter: i 
+14:15:14.915 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:15:29.793 DEBUG [] 
+14:15:29.814 DEBUG appArgv = I:\test.txt 
+14:15:29.838 DEBUG Drive letter: i 
+14:15:30.028 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:15:53.592 DEBUG [] 
+14:15:53.611 DEBUG appArgv = I:\test.txt 
+14:15:53.631 DEBUG Drive letter: i 
+14:15:53.745 DEBUG Full path \\dr_nas\dr_it\\test.txt 
+14:16:35.311 DEBUG [] 
+14:16:35.326 DEBUG appArgv = I:\test.txt 
+14:16:35.344 DEBUG Drive letter: i 
+14:16:35.449 DEBUG Full path \\dr_it/\test.txt 
+14:17:11.124 DEBUG [] 
+14:17:11.140 DEBUG appArgv = I:\test.txt 
+14:17:11.156 DEBUG Drive letter: i 
+14:17:11.278 DEBUG Full path \\dr_it\test.txt 
+14:20:05.545 DEBUG [] 
+14:20:05.561 DEBUG appArgv = I:\test.txt 
+14:20:05.581 DEBUG Drive letter: i 
+14:20:05.732 DEBUG Full path /\dr_it\test.txt 
+14:27:47.760 DEBUG [] 
+14:27:47.799 DEBUG appArgv = I:\test.txt 
+14:27:47.831 DEBUG Drive letter: i 
+14:27:48.073 DEBUG Full path /dr_it/test.txt 
+14:42:01.785 DEBUG  
+14:42:01.809 DEBUG appArgv = I:\test.txt 
+14:42:01.833 DEBUG Drive letter: i 
+14:42:02.027 DEBUG Full path /dr_it/test.txt 
+15:48:18.338 DEBUG  
+15:48:18.351 DEBUG appArgv = I:\Lines.txt 
+15:48:18.367 DEBUG Drive letter: i 
+15:48:18.475 DEBUG Full path /dr_it/Lines.txt 
+15:52:45.526 DEBUG  
+15:52:45.548 DEBUG appArgv = I:\Lines.txt 
+15:52:45.566 DEBUG Drive letter: i 
+15:52:45.704 DEBUG Full path /dr_it/Lines.txt 
+16:05:05.293 DEBUG  
+16:05:05.320 DEBUG appArgv = I:\Lines.txt 
+16:05:05.344 DEBUG Drive letter: i 
+16:05:05.608 DEBUG Full path /dr_it/Lines.txt 
+16:29:56.075 DEBUG  
+16:29:56.088 DEBUG appArgv = I:\Lines.txt 
+16:29:56.104 DEBUG Drive letter: i 
+16:29:56.200 DEBUG Full path /dr_it/Lines.txt 
+16:31:57.886 DEBUG  
+16:31:57.904 DEBUG appArgv = I:\Lines.txt 
+16:31:57.926 DEBUG Drive letter: i 
+16:31:58.073 DEBUG Full path /dr_it/Lines.txt 
+16:32:53.063 DEBUG  
+16:32:53.079 DEBUG appArgv = I:\Lines.txt 
+16:32:53.099 DEBUG Drive letter: i 
+16:32:53.249 DEBUG Full path /dr_it/Lines.txt 
+16:33:15.790 DEBUG  
+16:33:15.810 DEBUG appArgv = I:\Lines.txt 
+16:33:15.838 DEBUG Drive letter: i 
+16:33:16.278 DEBUG Full path /dr_it/Lines.txt 
+16:40:27.313 DEBUG  
+16:40:27.326 DEBUG appArgv = I:\Lines.txt 
+16:40:27.342 DEBUG Drive letter: i 
+16:40:27.448 DEBUG Full path /dr_it/Lines.txt 
+16:44:44.092 DEBUG  
+16:44:44.111 DEBUG appArgv = I:\Lines.txt 
+16:44:44.132 DEBUG Drive letter: i 
+16:44:44.247 DEBUG Full path /dr_it/Lines.txt 
+16:55:58.122 DEBUG  
+16:55:58.141 DEBUG appArgv = I:\Lines.txt 
+16:55:58.165 DEBUG Drive letter: i 
+16:55:58.294 DEBUG Full path /dr_it/Lines.txt 
+21:59:42.768 DEBUG  
+21:59:42.789 DEBUG appArgv = I:\Lines.txt 
+21:59:42.829 DEBUG Drive letter: i 
+21:59:42.969 DEBUG Full path /dr_it/Lines.txt 
+22:02:54.781 DEBUG  
+22:02:54.804 DEBUG appArgv = I:\Lines.txt 
+22:02:54.825 DEBUG Drive letter: i 
+22:02:55.133 DEBUG Full path /dr_it/Lines.txt 
+22:06:33.948 DEBUG  
+22:06:33.969 DEBUG appArgv = I:\Lines.txt 
+22:06:34.028 DEBUG Drive letter: i 
+22:06:34.139 DEBUG Full path /dr_it/Lines.txt 
+22:07:03.336 DEBUG  
+22:07:03.357 DEBUG appArgv = I:\Lines.txt 
+22:07:03.379 DEBUG Drive letter: i 
+22:07:03.574 DEBUG Full path /dr_it/Lines.txt 
+22:26:41.102 DEBUG  
+22:26:41.125 DEBUG appArgv = I:\Lines.txt 
+22:26:41.157 DEBUG Drive letter: i 
+22:26:41.451 DEBUG Full path /dr_it/Lines.txt 
+22:31:52.332 DEBUG  
+22:31:52.353 DEBUG appArgv = I:\Lines.txt 
+22:31:52.396 DEBUG Drive letter: i 
+22:31:52.558 DEBUG Full path /dr_it/Lines.txt 
+22:32:32.886 DEBUG  
+22:32:32.909 DEBUG appArgv = I:\Lines.txt 
+22:32:32.933 DEBUG Drive letter: i 
+22:32:33.240 DEBUG Full path /dr_it/Lines.txt 
+22:35:32.587 DEBUG  
+22:35:32.607 DEBUG appArgv = I:\Lines.txt 
+22:35:32.633 DEBUG Drive letter: i 
+22:35:32.842 DEBUG Full path /dr_it/Lines.txt 
+22:49:47.568 DEBUG  
+22:49:47.588 DEBUG appArgv = I:\Lines.txt 
+22:49:47.609 DEBUG Drive letter: i 
+22:49:47.825 DEBUG Full path /dr_it/Lines.txt 
+22:57:53.357 DEBUG  
+22:57:53.393 DEBUG appArgv = I:\Lines.txt 
+22:57:53.454 DEBUG Drive letter: i 
+22:57:54.047 DEBUG Full path /dr_it/Lines.txt 
+23:00:21.706 DEBUG  
+23:00:21.728 DEBUG appArgv = I:\Lines.txt 
+23:00:21.751 DEBUG Drive letter: i 
+23:00:22.035 DEBUG Full path /dr_it/Lines.txt 
+23:18:39.884 DEBUG  
+23:19:37.443 DEBUG appArgv = I:\Lines.txt 
+23:19:37.419 DEBUG  
+23:20:22.269 DEBUG appArgv = I:\Lines.txt 
+23:20:22.252 DEBUG  
+23:20:22.300 DEBUG Drive letter: i 
+23:20:22.446 DEBUG Full path /dr_it/Lines.txt 
+23:45:14.686 DEBUG appArgv = I:\Lines.txt 
+23:45:14.643 DEBUG  
+23:45:14.710 DEBUG Drive letter: i 
+23:45:14.881 DEBUG Full path /dr_it/Lines.txt 
+23:45:16.510 DEBUG eaoma5yZcwRxI1470M9N607200 
+23:45:17.069 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"9gA8rCGQD","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH6SURBVEiJ3Za/jbQwEMUHOSCDBiy5DWduad0ALA3glpy5DUs0AJkDi/neaE93J30Jk561wfqHNMv8eW+W+P9Df5qdRIsn8nbx7so0aNjFfW2I4m5vroKrhmW7tj6N5mouFYpKtox1Cu4qfdazl+ddEjqSlnFHDRZfB0a879weMdQvFvv1+anpI4ZztTq04wwm/fTyGcudCE2jmOs0OhW7+NjKcTUEc+9gVxXLPTYa8vEeAfqgYXcwJ3WESVIG3jRMZrNwyuZNNOc6aBhnRMKQWhr5DHVVMbavYHZ/MJLIddawezSp1IUs+bqikCpGKBsNzQJAYUnDuJhb5tRwqZO8kYKdY4/stkyQJt5Lx4LbGiRlXyNvrUcNu+FDwU6+v7xd85E07Mr89hCHNAGt2zQMecBLYqFVbKzPGsaM36e51Dnzlt2lYqVH2BhBWIwklAy6hKw72k7ha/4estP3hVAG3oOoc9Ow27szIHVEtQMbFeNsYdUkD/tESsZmJwTD7XgTJw2Dcc5NnCBCYeOhYnIaHOi4RSK0atgdxHchyt3jy2fPPGUfv59GGxuG1G0aJntGut0n2ckfz37KZJ8zbodkwyapGPZ5kUGbZeKclsVWl4BV8zveUyZOgF3BFQ+jikkedm7mHPkqLmkY6rdK/USg39p6yJ7+h/sb7B+UwmQ4A+7SJQAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"https://dr_nas.fenix-mfg.com:5001/sharing/9gA8rCGQD"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 22 Nov 2018 03:45:16 GMT","x-content-type-options":"nosniff","server":"nginx","transfer-encoding":"chunked","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"eaoma5yZcwRxI1470M9N607200"},"url":"https://dr_nas.fenix-mfg.com:5001/webapi/entry.cgi"},"request":{}} 
+23:45:17.069 DEBUG https://dr_nas.fenix-mfg.com:5001/sharing/9gA8rCGQD 
+23:45:17.341 DEBUG Logout successful 
+13:47:46.597 DEBUG appArgv = I:\Lines.txt 
+13:47:46.575 DEBUG  
+13:47:46.626 DEBUG Drive letter: i 
+13:47:46.791 DEBUG Full path /dr_it/Lines.txt 
+13:47:48.093 DEBUG ZU3mENjOVmXgc1470M9N607200 
+13:47:48.852 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"hgemrIK1j","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIBSURBVEiJ3ZYxruwgDEUdUdAlG4jENujYUtjA5GUDYUt0bAOJDYSOAsX/MvOkKX4Ttw+lmJyRLPvavoT4/0N/ml1Eeyq3yzOZGmmSsMr9pdfN0mZVTXiVsLjurC5afTMhkReyl2OOq099kbPN9tmioBKkDHVYetk8MeJ9a3vCoJ9P6+/z1fQRw6ktT61cToVvL5+x2IlWpONjnrURsZpMTaU2BDM/Dn2QMKa90RTLjwbok4glNLwjTIAGzIeEcYR+JiAe0QIxJOwmPjUqyFPiy+VdwpiRAuKtm+57zIuE3VqFZi5SDAAhRYxWhEHTPBfIHySMkxoycPYpz7awhF26b9bUZm6nkJeMOXOk7ht+8NG6l7Ab+xFpiZh0FFSChHEzJ+XNjSaQ/szaU1YTOgYBaGdz20/fnjIeHkBLykjniKZK2K37AhsjjBsHLiIGG4B+RH1qK7lPLo8ZAfCP5dON7awSdrtyur5wORL0U4eEwf9g1TP+hPuSqhKGETsRJsG9yhE5SBiMc35v2JHySxcRGwcjg7Y3xaPzAna7TpjuWE7bN/rcM08ZDlqHjF4E8zOHhEG/DW9p2Almdpcw3G97G2vBDWamgoi97+SK1qEgMlLm2/gG8e1tokK22ZF+gI39esljhjp4XZq69LhzgoSN76axVVju/t2tZ+zpN9zfYP8AaRFuWC+k0EAAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"https://dr_nas.fenix-mfg.com:5001/sharing/hgemrIK1j"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 22 Nov 2018 17:47:48 GMT","x-content-type-options":"nosniff","server":"nginx","transfer-encoding":"chunked","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"ZU3mENjOVmXgc1470M9N607200"},"url":"https://dr_nas.fenix-mfg.com:5001/webapi/entry.cgi"},"request":{}} 
+13:47:48.852 DEBUG https://dr_nas.fenix-mfg.com:5001/sharing/hgemrIK1j 
+13:47:48.947 DEBUG Logout successful 
+13:59:44.452 DEBUG appArgv = C:\Lines.txt 
+13:59:44.434 DEBUG  
+13:59:44.452 DEBUG Drive letter: c 
+14:01:01.063 DEBUG appArgv = C:\Lines.txt 
+14:01:01.046 DEBUG  
+14:01:01.063 DEBUG Drive letter: c 
+14:07:23.081 DEBUG appArgv = C:\Lines.txt 
+14:07:23.065 DEBUG  
+14:07:23.081 DEBUG Drive letter: c 
+14:08:15.287 DEBUG appArgv = C:\Lines.txt 
+14:08:15.268 DEBUG  
+14:08:15.288 DEBUG Drive letter: c 
+14:08:36.413 DEBUG appArgv = C:\Lines.txt 
+14:08:36.399 DEBUG  
+14:08:36.413 DEBUG Drive letter: c 
+14:08:36.538 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+14:12:39.977 DEBUG appArgv = C:\Lines.txt 
+14:12:39.955 DEBUG  
+14:12:39.977 DEBUG Drive letter: c 
+14:12:40.162 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+14:13:23.146 DEBUG appArgv = C:\Lines.txt 
+14:13:23.124 DEBUG  
+14:13:23.146 DEBUG Drive letter: c 
+14:13:23.313 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+14:20:05.019 DEBUG appArgv = C:\Lines.txt 
+14:20:05.005 DEBUG  
+14:20:05.019 DEBUG Drive letter: c 
+14:20:05.128 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:19:56.771 DEBUG appArgv = C:\Lines.txt 
+16:19:56.756 DEBUG  
+16:19:56.771 DEBUG Drive letter: c 
+16:19:57.012 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:25:04.198 DEBUG appArgv = C:\Lines.txt 
+16:25:04.181 DEBUG  
+16:25:04.198 DEBUG Drive letter: c 
+16:25:04.333 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:37:21.329 DEBUG appArgv = C:\Lines.txt 
+16:37:21.310 DEBUG  
+16:37:21.329 DEBUG Drive letter: c 
+16:37:21.593 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:40:56.202 DEBUG appArgv = C:\Lines.txt 
+16:40:56.180 DEBUG  
+16:40:56.202 DEBUG Drive letter: c 
+16:40:56.425 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:41:46.474 DEBUG appArgv = C:\Lines.txt 
+16:41:46.453 DEBUG  
+16:41:46.474 DEBUG Drive letter: c 
+16:41:46.678 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:42:05.464 DEBUG appArgv = C:\Lines.txt 
+16:42:05.443 DEBUG  
+16:42:05.464 DEBUG Drive letter: c 
+16:42:05.667 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+16:43:11.763 DEBUG  
+17:00:44.910 DEBUG appArgv = C:\Lines.txt 
+17:00:44.887 DEBUG  
+17:00:44.910 DEBUG Drive letter: c 
+17:00:45.098 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+17:11:03.523 DEBUG appArgv = I:\Lines.txt 
+17:11:03.501 DEBUG  
+17:11:03.523 DEBUG Drive letter: i 
+17:11:03.675 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+17:11:47.068 DEBUG appArgv = I:\Lines.txt 
+17:11:47.055 DEBUG  
+17:11:47.068 DEBUG Drive letter: i 
+17:11:47.210 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+17:11:47.211 DEBUG Full path /dr_it/Lines.txt 
+17:11:49.227 DEBUG OxMh3E30RFdXE1470M9N607200 
+17:11:49.683 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"BtErggZPy","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH9SURBVEiJ3Za9rewgEIXHckC2bgCJNshoyW7AXjdgt0RGG0g0YDIC5HmH65X2Si9h0ot2LfMFR8zfwcT/L/rT7CLaQmKuLzLZ0yBhmeuqsNOzHXPAVsK83niE6lLMGWgRs8ReL6FOcjZbPqjOlE4pQxyWVhsHht43th7WIgj68/vmtIth5RKHki43nt9a9jFfiTSOs/j4UkbEWq1CygVi5u2QSwHDfys0+PRWegtVxC6FNLTXM+hZ8S5h2dclmBN6RJOPi4TdxIcyb9Qt8O3iJmHMGhpQJVWhN0nYrVq52tNDMmURI6QtomgDJ6T/lDAOI/DCcQnxZRNL2KXqbPVMtLoRJ5IxZ94Nx9nxXuoiYTeUSE/YYbh9OiWMC4qW0DUcNNHTL70sF70qJIA2Nqj5JGFc4AE0hTh53oPJEnY7tIleCYPFJychG/eAsa5D0fQ5Sy+7KCL0NyzQEdGn5p2MOR04Dqcd+fvp2X6GRkMCIHlbBPT0Szdz46HG3ZsmTHxKGIzzpaCKTMRVJRFrq5ib4lRGbpUXMNSNbLPPw6ICzz3Ty7Dg9Jeta2tSs0vYz40ayeGJO/nx7F6G+23zdXiuVn7q1s0wjrCugB3iMFK2lHRjvMpvvV4GH2p3BWyspCxiiIPhJSMsATmYJKx9N7WpgpfU72z1sd5vuL/B/gHq7XUbsX4MUQAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"https://dr_nas.fenix-mfg.com:5001/sharing/BtErggZPy"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 22 Nov 2018 21:11:49 GMT","x-content-type-options":"nosniff","server":"nginx","transfer-encoding":"chunked","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"OxMh3E30RFdXE1470M9N607200"},"url":"https://dr_nas.fenix-mfg.com:5001/webapi/entry.cgi"},"request":{}} 
+17:11:49.683 DEBUG https://dr_nas.fenix-mfg.com:5001/sharing/BtErggZPy 
+17:11:49.880 DEBUG Logout successful 
+22:59:30.767 DEBUG  
+23:01:00.552 DEBUG  
+23:04:03.764 DEBUG  
+23:05:27.311 DEBUG  
+23:06:06.300 DEBUG appArgv = C:\Lines.txt 
+23:06:06.282 DEBUG  
+23:06:06.300 DEBUG Drive letter: c 
+23:06:06.428 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+23:06:30.710 DEBUG appArgv = C:\Lines.txt 
+23:06:30.690 DEBUG  
+23:06:30.710 DEBUG Drive letter: c 
+23:06:30.893 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+23:07:58.364 DEBUG  
+23:08:07.415 DEBUG  
+23:11:55.083 DEBUG  
+23:20:21.742 DEBUG  
+23:25:34.504 DEBUG  
+23:25:51.772 DEBUG  
+23:26:11.671 DEBUG  
+23:26:29.549 DEBUG  
+23:26:52.110 DEBUG  
+23:27:42.900 DEBUG  
+23:30:53.042 DEBUG  
+23:31:50.785 DEBUG  
+23:35:18.651 DEBUG  
+23:51:14.686 DEBUG  
+23:53:55.707 DEBUG  
+11:27:01.987 DEBUG appArgv = C:\Lines.txt 
+11:27:01.961 DEBUG  
+11:27:01.987 DEBUG Drive letter: c 
+11:27:02.194 DEBUG {"$values":{},"h":{"$values":{"remotepath":"\\\\dr_nas\\dr_hr","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"i":{"$values":{"remotepath":"\\\\dr_nas\\dr_it","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"deferflags":4}},"z":{"$values":{"remotepath":"\\\\fenix.org\\fmsapp","username":0,"providername":"Microsoft Windows Network","providertype":131072,"connectiontype":1,"providerflags":1,"deferflags":4}}} 
+11:38:54.480 DEBUG appArgv = C:\Lines.txt 
+11:38:54.465 DEBUG  
+11:38:54.480 DEBUG Drive letter: c 
+11:39:46.020 DEBUG appArgv = C:\Lines.txt 
+11:39:45.997 DEBUG  
+11:39:46.020 DEBUG Drive letter: c 
+11:23:35.956 DEBUG  
+11:24:23.652 DEBUG  
+11:24:43.378 DEBUG  
+11:24:59.744 DEBUG  
+11:26:00.609 DEBUG  
+11:26:16.652 DEBUG  
+11:29:09.940 DEBUG  
+13:21:34.948 DEBUG appArgv = C:\Lines.txt 
+13:21:34.910 DEBUG  
+13:21:34.948 DEBUG Drive letter: c 
+13:21:46.884 DEBUG appArgv = C:\Lines.txt 
+13:21:46.861 DEBUG  
+13:21:46.884 DEBUG Drive letter: c 
+13:24:31.079 DEBUG appArgv = C:\Lines.txt 
+13:24:31.047 DEBUG  
+13:24:31.080 DEBUG Drive letter: c 
+13:36:40.382 DEBUG appArgv = C:\Lines.txt 
+13:36:40.353 DEBUG  
+13:36:40.382 DEBUG Drive letter: c 
+13:36:49.449 DEBUG appArgv = C:\Lines.txt 
+13:36:49.425 DEBUG  
+13:36:49.449 DEBUG Drive letter: c 
+13:39:44.787 DEBUG appArgv = C:\Lines.txt 
+13:39:44.773 DEBUG  
+13:39:44.787 DEBUG Drive letter: c 
+13:39:47.645 DEBUG appArgv = C:\Lines.txt 
+13:39:47.627 DEBUG  
+13:39:47.645 DEBUG Drive letter: c 
+13:41:06.566 DEBUG appArgv = C:\Lines.txt 
+13:41:06.543 DEBUG  
+13:41:06.566 DEBUG Drive letter: c 
+13:42:50.196 DEBUG appArgv = C:\Lines.txt 
+13:42:50.164 DEBUG  
+13:42:50.196 DEBUG Drive letter: c 
+13:47:16.408 DEBUG appArgv = C:\Lines.txt 
+13:47:16.380 DEBUG  
+13:47:16.408 DEBUG Drive letter: c 
+13:47:39.357 DEBUG appArgv = C:\Lines.txt 
+13:47:39.343 DEBUG  
+13:47:39.357 DEBUG Drive letter: c 
+13:52:01.414 DEBUG appArgv = C:\Lines.txt 
+13:52:01.313 DEBUG  
+13:52:01.414 DEBUG Drive letter: c 
+13:52:45.348 DEBUG appArgv = C:\Lines.txt 
+13:52:45.270 DEBUG  
+13:52:45.348 DEBUG Drive letter: c 
+14:00:06.474 DEBUG appArgv = C:\Lines.txt 
+14:00:06.453 DEBUG  
+14:00:06.474 DEBUG Drive letter: c 
+14:00:52.225 DEBUG appArgv = C:\Lines.txt 
+14:00:52.210 DEBUG  
+14:00:52.225 DEBUG Drive letter: c 
+14:01:45.434 DEBUG appArgv = C:\Lines.txt 
+14:01:45.406 DEBUG  
+14:01:45.434 DEBUG Drive letter: c 
+14:15:26.831 DEBUG appArgv = C:\Lines.txt 
+14:15:26.806 DEBUG  
+14:15:26.831 DEBUG Drive letter: c 
+14:15:37.953 DEBUG appArgv = C:\Lines.txt 
+14:15:37.902 DEBUG  
+14:15:37.954 DEBUG Drive letter: c 
+14:16:19.139 DEBUG appArgv = C:\Lines.txt 
+14:16:19.109 DEBUG  
+14:16:19.139 DEBUG Drive letter: c 
+14:21:20.478 DEBUG appArgv = C:\Lines.txt 
+14:21:20.456 DEBUG  
+14:21:20.478 DEBUG Drive letter: c 
+23:25:51.903 DEBUG appArgv = C:\Lines.txt 
+23:25:51.878 DEBUG  
+23:25:51.903 DEBUG Drive letter: c 
+23:47:02.687 DEBUG appArgv = C:\Lines.txt 
+23:47:02.663 DEBUG  
+23:47:02.687 DEBUG Drive letter: c 
+23:59:26.038 DEBUG appArgv = C:\Lines.txt 
+23:59:26.011 DEBUG  
+23:59:26.038 DEBUG Drive letter: c 
+00:06:21.350 DEBUG appArgv = C:\Lines.txt 
+00:06:21.312 DEBUG  
+00:06:21.350 DEBUG Drive letter: c 
+00:08:45.887 DEBUG appArgv = C:\Lines.txt 
+00:08:45.865 DEBUG  
+00:08:45.887 DEBUG Drive letter: c 
+00:10:18.472 DEBUG appArgv = C:\Lines.txt 
+00:10:18.447 DEBUG  
+00:10:18.472 DEBUG Drive letter: c 
+00:12:15.157 DEBUG appArgv = C:\Lines.txt 
+00:12:15.129 DEBUG  
+00:12:15.157 DEBUG Drive letter: c 
+00:14:51.203 DEBUG appArgv = C:\Lines.txt 
+00:14:51.190 DEBUG  
+00:14:51.203 DEBUG Drive letter: c 
+00:15:38.586 DEBUG appArgv = C:\Lines.txt 
+00:15:38.564 DEBUG  
+00:15:38.586 DEBUG Drive letter: c 
+09:17:03.256 DEBUG appArgv = I:\Lista Entrega de Tickets.xlsx 
+09:17:03.256 DEBUG Drive letter: i 
+09:17:03.323 DEBUG Full path /dr_it/Lista Entrega de Tickets.xlsx 
+09:17:03.943 DEBUG 0KSbW7eb9kGi61470M9N607200 
+09:17:04.386 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"h96giijxO","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lista Entrega de Tickets.xlsx","path":"/dr_it/Lista Entrega de Tickets.xlsx","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIJSURBVEiJ3ZaxjfQgEIXHIiCzG0CiDTK3tNuAvW7AbonMbSDRAGQEyPM/tL7b4BJGF91vOVh/wQjevHmzxD8f+q9ZIlp0HR1NbA9Pg4Rlrs/CSaujmOHEp4R5s5B9afuaFZ/0lDJHD6eOE6+czTSdfPi6ShnXB8VEKGa3z926GPR7nuZ+P5p2MTyJIheDqtunl52MRvfGavN8SFhyvOuKI+xkmRVL2EXQQLE35OpjfmvQy7Ln7QyjixcRuXhIGLMZdVjRN0bneZMw3P7ScfNwOqqaVcIuRzTjIGHygXQVsaQZTsGvp7dHuTXtZNnT1MQLy1yn8qVLJ+OI1vGJSupFXx7vY5eGT+PlMJd1cTFLWCLeZ2SJysXudHutl7mw+krOsudc7pnpZNeM6GLcYEHTvM0SlkudOB4nt3peidiFhjvEWF00UsEMEsa+zcfe7MZpriKW2eYWIRBepdun3exsfUPnW5zM7/noZbjHTobaeMXXPZfdjCr6hiWzlcjnd0Z0saRRBguqBTa5t369DMcfHYoh8u3l1CZi3iZdlyZGxJoSsaSRQ2YtSDCLjcEShiczjk9LC873XPaytmfaZoNZYsaakrC233TMBdMJ11gWMQ+bhKGEsQU/rUK2MiYSrlHbd64JGLVd4SoCeBMxbl6D8iPCrIRBwlI7exgQJ5hpZyYJ+83/ur/H/gGQlEvMWotCwgAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"https://dr_nas.fenix-mfg.com:5001/sharing/h96giijxO"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 13:17:04 GMT","x-content-type-options":"nosniff","server":"nginx","transfer-encoding":"chunked","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lista Entrega de Tickets.xlsx","_sid":"0KSbW7eb9kGi61470M9N607200"},"url":"https://dr_nas.fenix-mfg.com:5001/webapi/entry.cgi"},"request":{}} 
+09:17:04.386 DEBUG https://dr_nas.fenix-mfg.com:5001/sharing/h96giijxO 
+09:17:04.582 DEBUG Logout successful 
+09:22:42.271 DEBUG appArgv = I:\Lines.txt 
+09:22:42.232 DEBUG  
+09:22:42.272 DEBUG Drive letter: i 
+09:22:42.508 DEBUG Full path /dr_it/Lines.txt 
+09:22:42.939 DEBUG LIvACoKABg3NA1470M9N607200 
+09:22:43.296 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"dwejNzaLS","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIHSURBVEiJ3ZYxrusgEEXHckFnbwCJbdCxJbMBO95AvCV3bAPJG4COAnn+JcnTe9L/BfPLh1I4JxJm7p25hPjvRb+aJaLFRlI0nxefNEhY5roovajqy3gEfJWwU/uT/ImH6AN5IdtYTyp6Nsd/sFBXFedQZylrdYxPZY6Cs/yorYNBPx/05/OtaRfDysXcyjyoDt9e9jHoF2Ad323vOkhYctcODRwteCjQUsBuFQcek9VEI07EEpaDebo6F6hYFzvKGOvFVnLmQJ9yHCTsVmPmuDjzsLTxeMhY3M5IVg8hrkrGkjK3o4mqZ72qiyUMYGNCHZlNsnWWMPj2sHWii4vB3ruEZRhONJQ4KQzKl2997HY4Ak3unUHv/XoZsmchWlUbsrkYlrDU5EebY0Suh/r0eCfjoCdbF0crGi3UTcROdNmLEVqmegnLReP9UBGJwmHcRexsLXMgPhk/fuajlxWErtnP6xX8JktYcuap4ur4Qbyfn97tZIzstHG1cH582uglLKnWMrdDcEZfaJawzC13kWFkccVpL2LQj66d61CuHK4sY7heTCLDcJ7e2dnLsJKLk2vZuX/NRyeDXVtpqieEWfiajz6GkVoRITgR9GstI2FNM9wSbTQTaS9lUK6Y/XVTsZAtCqZdRxlR0yxiqAOxVzQkhPki1vRjaI8UaVuyhP3r/9rvZX8Ao0U2hy/x9QUAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/dwejNzaLS"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 13:22:43 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"LIvACoKABg3NA1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+09:22:43.296 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/dwejNzaLS 
+09:22:43.499 DEBUG Logout successful 
+09:24:28.026 DEBUG appArgv = C:\Lines.txt 
+09:24:28.002 DEBUG  
+09:24:28.026 DEBUG Drive letter: c 
+09:24:56.358 DEBUG appArgv = I:\Lines.txt 
+09:24:56.333 DEBUG  
+09:24:56.358 DEBUG Drive letter: i 
+09:24:56.609 DEBUG Full path /dr_it/Lines.txt 
+09:24:57.653 DEBUG XVA7zqq0FH6tk1470M9N607200 
+09:24:58.176 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"8FKZzgn3D","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIDSURBVEiJ3ZY7juQgEIarRUBmX8AS1yDjSu0L+HGB9pXIuAYSFzAZAXLtTz9mgk2onWgWOTCfpVLVXy8T/33ov2Yn0d3VhabZJ/Z0k7DMdS58MK0lHQFXCfMT7N3YcKAZj5CtXj0c72yOf2BcFwdH6ihlXO9aPbQ5Spy/Y+ti0G8O0/v51rSL4eRiLm02ghJfuexjHpbobvlqtutNwk7bol8cMp/2Aj0E7HLQTJ12IlLwKMuY2lwdC1Sss1e7hHELopIzh0+XjqOEXRqOxLGoXGhx6pCxuDINSH6Ii5axU5vLNiXWMC06sYThtmgaC28OeaijhJ1IV0gHSsYa2N4lLIe6tiI1B09rMCxhlzO5dQbiwN3sEobZs5YJ+u2MzBuWsPMpYX6Kt1HaZSwOtt6holXs33XfzTBOnowMCnaWMA6ol6YiJgqHT433scumDUPIo8OmGyuWsOa7N7tPbSD5j/Z9LDPsxcXxRrzZV512s1DJojXNadXhX33Zy07NXADqQHEtJGKZ4X5cQ3pYvEyziPlWL6er2G8cUpaxOqClSsoYY/Sql16GcxIs4SMS/s5HJ0O6Fov1gvWocvj0Rx/Lz8X4sHGh+CwZCYNmBdMa0wi2P/r1Mx/nMt3a8I6rkN01ETZVUbA3ihjiaNpPg2trWcSg38pxaL8wzSRL2E/+634f+wO+UVH8ItSLQwAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/8FKZzgn3D"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 13:24:58 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"XVA7zqq0FH6tk1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+09:24:58.176 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/8FKZzgn3D 
+09:24:58.433 DEBUG Logout successful 
+11:32:54.962 DEBUG appArgv = I:\Lines.txt 
+11:32:54.936 DEBUG  
+11:32:54.962 DEBUG Drive letter: i 
+11:32:55.228 DEBUG Full path /dr_it/Lines.txt 
+11:32:56.836 DEBUG wA8dCLeetv1EM1470M9N607200 
+11:32:58.099 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"cidHJig4V","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIFSURBVEiJ3Za9rawwEIUHOXAGDVhyG87cEjTATwNLS87cBpIbgMyBxdxjdt/qSTfxpBettMu30mCf8TkD8e+L/jQ7iaZgL1ZbUByok7CLyxSOntLFaY+4lbBgRqduzXs4pkiTkM3Oci4d213OFi6zP4ZYBinjMmr10nbPWMt3b02s6hfN5/Ofpi0M15Xtre1K2Mq3l20soBKNju9au3QSdmrmCA1o9GnL0EPAOOJbnc4QoXt2l7Dbq9WXIUPFMmXFEsbxGJ3pvd1Dwu9OxiwWsmR+OZq92iXs1sdMRN6i2Kxl7NQWqt9EvTazTixht6eFq3j483RlkLAT7WLqqYxkgTcJu2JZooH2szdLtCxht0cZ01cxcP+u18o4Yh9oWqHaecsShnqrNhPDImml7zOaGOr1royeZqdw2BcJO3XawsPIrv6TB43sqvuoKiJROKpNwk64GZYKSC/T8dsfreymsgS7hfQOfhFDzK845p5X4i2nTcLQcIKrHA6permjkzF4wp6+zHQsmQYJuxi5i4U8oYssFLGAyFQv+BIjLqZLxuBFTBgkN+z1zs5WVvMetghmCGj455w2MrQLgf0AdX182cquOhhr9JI7niMjYVWzOiXQ9pP+6dfO8BYQTPdMKhayURO5tGeFeoOIYR+IvYxxUceyiEG/hY/eY6LWkixhre9wf4P9APo7KF8hsOg5AAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/cidHJig4V"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 15:32:58 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"wA8dCLeetv1EM1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+11:32:58.099 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/cidHJig4V 
+11:32:58.308 DEBUG Logout successful 
+11:34:03.413 DEBUG appArgv = C:\Lines.txt 
+11:34:03.388 DEBUG  
+11:34:03.413 DEBUG Drive letter: c 
+11:37:10.566 DEBUG appArgv = C:\Lines.txt 
+11:37:10.547 DEBUG  
+11:37:10.566 DEBUG Drive letter: c 
+11:41:19.295 DEBUG appArgv = C:\Lines.txt 
+11:41:19.278 DEBUG  
+11:41:19.295 DEBUG Drive letter: c 
+11:41:35.981 DEBUG appArgv = C:\Lines.txt 
+11:41:35.962 DEBUG  
+11:41:35.981 DEBUG Drive letter: c 
+11:42:34.079 DEBUG appArgv = C:\Lines.txt 
+11:42:34.046 DEBUG  
+11:42:34.079 DEBUG Drive letter: c 
+12:01:32.575 DEBUG appArgv = C:\Lines.txt 
+12:01:32.558 DEBUG  
+12:01:32.575 DEBUG Drive letter: c 
+13:15:25.874 DEBUG appArgv = C:\Lines.txt 
+13:15:25.852 DEBUG  
+13:15:25.874 DEBUG Drive letter: c 
+13:18:28.267 DEBUG appArgv = C:\Lines.txt 
+13:18:28.252 DEBUG  
+13:18:28.267 DEBUG Drive letter: c 
+13:18:32.400 DEBUG appArgv = C:\Lines.txt 
+13:18:32.380 DEBUG  
+13:18:32.400 DEBUG Drive letter: c 
+13:18:46.798 DEBUG appArgv = C:\Lines.txt 
+13:18:46.776 DEBUG  
+13:18:46.798 DEBUG Drive letter: c 
+13:19:44.915 DEBUG appArgv = C:\Lines.txt 
+13:19:44.899 DEBUG  
+13:19:44.915 DEBUG Drive letter: c 
+13:20:19.788 DEBUG appArgv = C:\Lines.txt 
+13:20:19.765 DEBUG  
+13:20:19.788 DEBUG Drive letter: c 
+14:12:34.727 DEBUG appArgv = C:\Lines.txt 
+14:12:34.713 DEBUG  
+14:12:34.727 DEBUG Drive letter: c 
+14:14:17.039 DEBUG appArgv = C:\Lines.txt 
+14:14:17.020 DEBUG  
+14:14:17.039 DEBUG Drive letter: c 
+14:15:03.540 DEBUG appArgv = C:\Lines.txt 
+14:15:03.517 DEBUG  
+14:15:03.540 DEBUG Drive letter: c 
+14:15:44.705 DEBUG appArgv = C:\Lines.txt 
+14:15:44.684 DEBUG  
+14:15:44.705 DEBUG Drive letter: c 
+14:45:53.673 DEBUG appArgv = C:\Lines.txt 
+14:45:53.653 DEBUG  
+14:45:53.673 DEBUG Drive letter: c 
+14:57:14.362 DEBUG appArgv = C:\Lines.txt 
+14:57:14.331 DEBUG  
+14:57:14.362 DEBUG Drive letter: c 
+14:57:51.674 DEBUG appArgv = C:\Lines.txt 
+14:57:51.652 DEBUG  
+14:57:51.675 DEBUG Drive letter: c 
+15:07:48.431 DEBUG appArgv = C:\Lines.txt 
+15:07:48.377 DEBUG  
+15:07:48.431 DEBUG Drive letter: c 
+15:08:54.326 DEBUG appArgv = C:\Lines.txt 
+15:08:54.294 DEBUG  
+15:08:54.326 DEBUG Drive letter: c 
+16:39:24.152 DEBUG appArgv = C:\Lines.txt 
+16:39:24.101 DEBUG  
+16:39:24.152 DEBUG Drive letter: c 
+16:39:52.851 DEBUG appArgv = I:\Lines.txt 
+16:39:52.824 DEBUG  
+16:39:52.851 DEBUG Drive letter: i 
+16:39:53.073 DEBUG Full path /dr_it/Lines.txt 
+16:39:53.596 DEBUG iOGRzMWoIeaio1470M9N607200 
+16:39:53.856 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"uhBoDLtzu","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIESURBVEiJ3ZYxju0gDEUdUaSbbACJbdCxpccGkrCBZEt0bAMpGyAdBYr/5b+n+SP9BrcTUSSncMy1r4H4/4d+NStEvqpjvorlEGmSsJvblq6zXierM+FTwqL28TqjniL5RF7INla7UyFykDOf2jrnJbVFyvo+1DOrk7P/ubcB1vVL+rN+aDrC8BRrjlntc5v+1XKQ5S3Ry/KDvBBSwoozu2OsQuogEySMGSmoYjWR4iRjz3wFSFjzi9rLKpYwZv0F4SuA2YmDhD2k7pp9NYej1X3+McrmvPZ01N8XVF7AYKkyQwPFsXnOk4Q9jrbKByGYKbYtElbstbtGNi9s7mRuEXNElLF8ylMlL2GPRQpdxdLzescbZRxpg60TBGhLNSxhCIbWXlJeCcLL2M15te2Fgnf58yZh6OudGjkN7QN/PD3I0GhLRCLdGaHqRcRYhWQYk6xqcu9eG2WP1Vs0IV59IEUjYtjHyWgZImfO+q3BGGMiC/HMYzFL8iRhd7wepx70acovS5uElbl92UyOpgpzvD09yu4+49UZ+0Aq3dwSFhEGI7CbkkhvEtbnPWzNmNYIJmMoF8yxMBJR8DRLGM43X2GvC4eGZ+1FLOrVMm4BZ1I7ffSTsCtEFTBIKp9SNqNlcA3BOFEyhkMGstXroLa6770Nsa4f5y+H0vWQLGGjd7jfwf4AUuVR7WpV9JIAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/uhBoDLtzu"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 20:39:53 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"iOGRzMWoIeaio1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+16:39:53.856 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/uhBoDLtzu 
+16:39:53.982 DEBUG Logout successful 
+16:40:55.671 DEBUG appArgv = I:\Lines.txt 
+16:40:55.657 DEBUG  
+16:40:55.671 DEBUG Drive letter: i 
+16:40:55.830 DEBUG Full path /dr_it/Lines.txt 
+16:40:56.440 DEBUG 9.1mRyQF15nLA1470M9N607200 
+16:40:56.908 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"yt6vzk6eq","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIFSURBVEiJ3ZY9rqUwDIWNUqS7bCBStpEuW4IN8LMB2FK6bAMpGwhdigjPyb2MnkZTDNar3kQU8BVWbB8fQ/z3of+aZaIxmi4yB8WBOgk7uY6F5qL2kvaITwkLZmS1ON4jAtMoZBOZSfPKdpezmfnSuEjtpYzroNWm7V6O8Su3R+xTv/v5o6b/ZjhnsZe2C9Xuq5fPGOoXaXB8tdi1kzBE4lgnT4NPa2n1eM6yo55VdoZIcbSrhF2kNl/7gipCOIolLHszuPrydg/p0scoYcjjLVV1Qq2sdhk75oC7KLxMWsayRtNUprR5qDWxhF2e5ljHmBZvs6u9hGWfFndMntdgEXuVsBMNh1RZndHM0bKEXbgC2bVgsPB99/wh4yZSM3kMFpL4xHvKsrNba529kBAdnYjp+nJ18DQ56PR3P56xs6Byb0Z28XWUsKybB6CKcBSOahUxlxaYUED5TXfr9CnjUrtg15BgSANZEYNrbrrpZSFey63Thyz7gxyKB5GqZp8iphEicTkGOrBwegk7uV0/k0IZ5rZzJCwgJLai6UI6YzplDHqxl0PUSvTxzqcMJ8O6AkwXDb/n4yFDu2Z+D0fEaFqWMJjf1CyzDcdbMhLW9gxE2jLIZEYpQ6sLfkMw3McsZIMmcmkvcFDTi1jLAz5kXr6tZRH71O/lsVFbSJaw7/zX/Tz2C7/DQ6RNIx0DAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/yt6vzk6eq"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 20:40:57 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"9.1mRyQF15nLA1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+16:40:56.908 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/yt6vzk6eq 
+16:40:57.067 DEBUG Logout successful 
+16:42:14.430 DEBUG appArgv = I:\Lines.txt 
+16:42:14.406 DEBUG  
+16:42:14.430 DEBUG Drive letter: i 
+16:42:14.742 DEBUG Full path /dr_it/Lines.txt 
+16:42:15.387 DEBUG KOvvTi73UlVCE1470M9N607200 
+16:42:15.753 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"WrOxOEoWj","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIFSURBVEiJ3Za9ja0wEEYHOXAGDVhyG85oCRrgpwFoyZnbsOQGcOYAMfv5cZ/2SS/xbLgWuhIH6Qqf+TwD8f+LfjW7iJbx7gItjndPnYRlvmdPc7F7oSHgVsK8mSiuIfbuHgLNQjZ7Zn8PbH7CSpwLdkOzlGEfIT2j2jnlf/bWwuBvDuZzfTttYliP42NUh+b9u5ZtLMSuWIaAog5Hg4zZR5tem8VFgn4ZM4M3K3MuvDlaJQzOdjarj0v1kXYJuzQtWp3FTA5xYxkjm8vd+QSFz5hYwmCOCDFX2BA500nYQ1V8P6bDWQ7qlDAOd1fSVkE69OuglT0ubThbjKgibm9OW9k1UudpciozgvOej2bmbA7U63SWexk//9fIHgfxNnN98vdcNjP9RkZdFDsfRSwXIp24pNPXJ1nCoPwhQ9pMuhZ8lzD0oa4G3OJuL2aQMEbHDfg1a7HbmE4Jyx4Fh3vqSu27g4RhvXU79E1OsYRdIxoJ6obq1YKL2EN/+p++F50eF1cJu/Q9+DgEgzkz8+ddGhnjTNQBBeux12qXsMvRNOJF6uGYSGUJq/5KnDRv0I+kSxjmDFKGMVXz8jkfrQzWJxcHjFbMNzYy5g2+I3oNhWqj15+EudpOBq9ysaeQodOfTJgVx2h3EeN7Rek8kbOXfvPSyuBvRScoAGhFZpaw1m+438G+ACALVLftrqPxAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/WrOxOEoWj"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Wed, 28 Nov 2018 20:42:15 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"KOvvTi73UlVCE1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+16:42:15.753 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/WrOxOEoWj 
+16:42:15.916 DEBUG Logout successful 
+13:30:11.110 DEBUG appArgv = I:\Lines.txt 
+13:30:11.079 DEBUG  
+13:30:11.110 DEBUG Drive letter: i 
+13:30:11.275 DEBUG Full path /dr_it/Lines.txt 
+13:30:12.100 DEBUG RI3mP2qaox7B21470M9N607200 
+13:30:12.765 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"Ge7FcL4Te","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIFSURBVEiJ3ZY9jsQgDIUdpaCbuQAS16DjSskF8nOByZXouEYkLkA6CoT3MZvZLbbB7aLRSPkKCz/bzxD/PfSvWSKaFK2edz+yp0HCLi5zpsmZnccj4FPCvJ79OVnEO+dAs5AtzrwUX9kccraGsrh4hPKUMi6TGl/KHBl3+cmti0G/Oej796tpF8NBBlWZjcrwW8s+Bv0CQb/aYpdBwq5WLmiA0sU961XCkjtXHpPVRCMHc0kY55hceWaoiMYZWcIuJrL6gV7zsbpzljAO4/s6Zs+ESx0SVtW5kNlbs5yLkrGkTHV6zrEqvajIElYdoUmvDCFNsuUpYcnFjfSk4uENYu8SdoWy+rJmPQQMimEJq85cwSAYB3x/x+tljCYlqH4SKs/f8XpZskilDRaU2D65dbOy2DJBRQv/u+vRyxDDvxmZDYElDHlgFqEiHAV9t0tYpYiQh4d76eHTp52sebZvw9EMKd+17GRVjRva3PFGvOcoZHqyze+rHV/2HCQsqeZ5GMqFTiycp4TBDyYL70Qwmr2eRcwD4zr8osghXjJWHnQSaUxJ+5cwHLQbnK8SCn7PRydDubAbkQ1M6Lrnspeh5qvHXjUV+rWWkTAPI8GagoEh9ke/boa3AFQfWhHKKmR4v5CNRx4TmUPEuCwYzYx10ZbkU8LS24QeDhu1hWQJ633D/Q/2BcgVP6s/OqAjAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/Ge7FcL4Te"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 17:30:12 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"RI3mP2qaox7B21470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+13:30:12.765 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/Ge7FcL4Te 
+13:30:12.920 DEBUG Logout successful 
+13:31:09.789 DEBUG appArgv = I:\Lines.txt 
+13:31:09.762 DEBUG  
+13:31:09.789 DEBUG Drive letter: i 
+13:31:09.966 DEBUG Full path /dr_it/Lines.txt 
+13:31:10.349 DEBUG KlkNoObkPIGfA1470M9N607200 
+13:31:10.830 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"MCRMz0OND","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIDSURBVEiJ3ZYxjuQgEEXLIiBrX8AS1yDjSvYF7PYFmiuRcQ0kLmAyAuTaT0/vTLAJteFYliW/4At+VX0g/vehX80uolW33ZoSFAeaJKxw26q6KJeqfMSvhIVlC9kzHTFtkTYhO+oyc5qq8f/BmG+dfWyzlHFbtXpp4yvW8r23IQb/trh83h9PhxieUs2tzZPa9FPLMQb/Iq2W767dJgkrwXBsu6PV5bN2P8YZ9CZWl12I1O3MKWGXyy/X5goX2xaUl7BbJ4KYMz5kjumQMVX68vElfL2MpaPyiWbhtGsZu7S5La207BpvZgm7HaHHd7s8tLksVAUM/mEhu21kDbRPCSsARFOgmZcjGpYw1Pnqu2mrw/+X3ihD9uwWtmUM2VwNSxha+6lNieZ2+fnZxyjjiuHAQroqRzok7NLsw5uRedpcJKzUhFmEi0gUjuqUMGaFMPAB6dWHjCWs518wZ8g9+JH6EsYho813x0/is4e3hPGy2oQcuqx6UZolDP5xhcyyEoaMRKww0otf71bdkIUiFiAJgBFBlnzqNszaHIgsTsiGyT4kDE8/VJmmioJ/+nSQoVw7NYITUZXPXI4yjBTYoy8qvVtGwgLqli+HJoX2X/+G2VZxiYASei0dQrZq+Jd9v4kss4hhH4iBujxcP5ZFDP4dnB4OJyokvz0dYqN3uN/B/gAF3kgM5bBaqQAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/MCRMz0OND"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 17:31:10 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"KlkNoObkPIGfA1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+13:31:10.830 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/MCRMz0OND 
+13:31:10.984 DEBUG Logout successful 
+13:37:29.704 DEBUG appArgv = I:\Lines.txt 
+13:37:29.674 DEBUG  
+13:37:29.704 DEBUG Drive letter: i 
+13:37:29.867 DEBUG Full path /dr_it/Lines.txt 
+13:37:30.340 DEBUG ptErL4zbtkCHI1470M9N607200 
+13:37:30.664 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"WWvRqshEh","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIGSURBVEiJ3Za9reswDIVpqFCXLCBAa6jTSvYC/lkgXkmd1hCgBexOhWC+I98EKd4rxFdew3CQzwBBHlKHJv77ol/NDqKR+EW8B8WBBgk7uU6Ft2J3VnvEXwkLZorAZgk0RZqEbCn0DLmF/A/GdfbpGetTyriOWr203UuavrV1Meg3RfO+v5p2MVxnsZe2K9Xh28s+1vSj0fHVYtdBws7AHKEBjR4SQg8BYzYTq8MZIoWMNhELavX1WaBiHUmxiHElV8nbPeTLp0nCLo1E6lDs6mjBqMpYmp16ET18mrWMHdpezsx46c2sM0vY5WmJTYOHt0jqKWGHzysS0W1qjrf2veyMdYlodd7wjJYl7PIWZ4JjXj1+fuL1MnjPrM3s8t15yxJ2eF61PaO9WkF5EzFXZ1dHT+gev+voZWfJW7gZYWTqJGEHJZwnqAhH4ag2CYNmqGOHcbIZ+HM++thZaAh2C7kZv7OnhF1OHRhzqEhw/fecdrJDI0xCJLyEfS4y1kq5mn6pGb+Endw8/iKUQgu8UMTCnY5OU8l7zKeM1QdGDE5Glejjp33s9ntDPr8IDf/4aR9Du5agYCdw3/Mzu50M+w3beHYY9nSPjIQFgyWzom8asT/6dbMJGzWYoW2qtAjZqIlc3os6yO4ihg8B2F4xD48lqUSs6cfp4bFRW0iWsH99r/1e9gehAED7innzVgAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/WWvRqshEh"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 17:37:30 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"ptErL4zbtkCHI1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+13:37:30.664 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/WWvRqshEh 
+13:37:30.821 DEBUG Logout successful 
+14:31:16.119 DEBUG appArgv = I:\Lines.txt 
+14:31:16.049 DEBUG  
+14:31:16.119 DEBUG Drive letter: i 
+14:31:16.325 DEBUG Full path /dr_it/Lines.txt 
+14:31:17.365 DEBUG Iq.LV0fj8gZ2c1470M9N607200 
+14:31:17.844 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"muEZRmqsF","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIMSURBVEiJ3ZY9ruwgDIUdUdBNNoDENujYUrKB/GxgsiU6toHEBkJHgeJ3MpOrW7wGtxdNRuQrLGP7HEL8/6I/zU6iifIR7dvxHmiQsMJtre2l28rqiHiVsGAmbY9IQ0xzpFnI1momZ0vgXc7myJdOY2yjlOEcUV1aHYxcfs/Ww1C/OZrn91vTLoZ1OvvWatNt+O1lJ0trpMnxhbwQUsJKtW/Pm0dS6k12lzCuyF2dzhApjpYl7PL5MzJpojZXVFHA8Cxa7bUtzu5ou4RdpEo1Q7Wbp8UrFjGdVjbkLDaLfvLrZKfjU9PLtzG0mdMgYZenNbTFQ1v2dG2UsNPlTVscZcF/tEXEPA2V1pox49jMEnZBkbG9HDJCXt94vYwDSm5elHduY31mqJMhxs5mjBkNPJCUhJWaFtcmNNwpDk3ELsobNfJ3/ZDOIGFc0xrS8lHVXs0oYSXmHZKCk1VD/jtrvQzx5gBl5NuQwo9W+1gJ0ESGOMjbI3zntJdxhGHfPnQ6BTZLWAn5ctA0HBRNePrWyU6NMSHSt7ZwTbGEldvj7XVbb7503kUs4HpJL3dvJjKrhGGVSi+tPsFkDO2Cca4VPqTK47u9DKaLwm/ODLjf2MwihjuZ0+JhhGqjp379bIGgw+0o8+0oQqaJXD6qOsnKGC4ZlK3mN8FBbZGwu36c4NkD3yFZwnq/4f4G+wcS4VESQaxtiwAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/muEZRmqsF"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:31:17 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"Iq.LV0fj8gZ2c1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:31:17.844 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/muEZRmqsF 
+14:31:17.999 DEBUG Logout successful 
+14:32:10.626 DEBUG appArgv = I:\Lines.txt 
+14:32:10.544 DEBUG  
+14:32:10.627 DEBUG Drive letter: i 
+14:32:10.843 DEBUG Full path /dr_it/Lines.txt 
+14:32:11.327 DEBUG LXE0VeZYlmyzY1470M9N607200 
+14:32:11.843 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"5NsAYq24V","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIFSURBVEiJ3Za/zeQgEMXHIiCzG7BEG2S0ZDfgPw2sWyKjDSQawBkB8tzzZ0sbXMLcRXeWg+W30tPOm5nHEv/+0H/NMtGk+fB4FXvqJOzkOvM4cx2KOgKOEuYB0hnq6mkONAvZWmihtLM5/oAFvnQcQh2kjOuk1Uebo8T5W1sTg39zGN/362kTw3MWc2mzUe2+vWxj8C/QZPm6tWsnYZdLe6iLowkfyriKGKFvKtuRSHEwp4SxT9lhWOBinaw6RCzEydbemcMndG+WsEur7IDhIi3u0WtncfWxp7pyXLSMZY2mjYNXmxsXnVjCLkerT5smuJ5tHSQsOwDeg7msgfYuYdjI5R4TOIFFMSxhlzMY895BGOdHr5UhexY0LVTSKMKwhGVrPg7jBhfTRm9tjYwLlqNOjhZ7zynLWDr8DyOz2XRK2BlG7CJcRKJwULuEXXffMOBIL3ypWMKwH6s3OzYMgeRfDxpZthjVuDjeiPfy1NHKUMdksVsmW/WxcZCxdLn71PmI4JcxRu6qvdTeUnffORLmgbGUKaNp4a2jmSHAxvuOQozRk52tjO9VvqOILBr+9qORoV2LNZhQhNn5zmkrw/22+trdPyf+jIyEvfc59KA9zlLm41yghCV78k/AJk1k01EU9AYR47og9srYIxXCk9mtDP4h6XuHCLwlWcL+5n/dv8d+AbiWTazYEgVBAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/5NsAYq24V"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:32:11 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"LXE0VeZYlmyzY1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:32:11.843 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/5NsAYq24V 
+14:32:12.078 DEBUG Logout successful 
+14:32:49.259 DEBUG appArgv = I:\Lines.txt 
+14:32:49.130 DEBUG  
+14:32:49.260 DEBUG Drive letter: i 
+14:32:49.605 DEBUG Full path /dr_it/Lines.txt 
+14:32:50.874 DEBUG 8BTJoc6OeIITU1470M9N607200 
+14:32:51.524 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"P2mVWAb5h","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEiJ3ZY9ruUgDIUdpaBLNoDENujYUrKBEDZwsyU6toHEBpKOAsVzuO/O3GKauH0oisRXWP45tiH+/9CvZieRTxxYr7VwpEHCLm6bG0PNPrUh4SphUW+UNzW+VAmJViHzSc+Rr2oOOVusOd5xBCnj5plPS4RovrE9YsjfmvTn++b0EcM5XZu53K4c31o+Y7GRa5PKsEfKiNgVzZVQOlpcCVV7CbthzOYh5s0hDjglYFcqjJTjH02IfMgY6qbJcYjlVnmQsNOOzOVKfCRzQa0SdkWaU7liOWmEI5eEncrcVk/UJqc3VVjECHGUl8o+kmcjYlzHU+EGY23gImK94Oqdv4QmMyKG0LnmyTUf82LbKmN5Ushf3qy5qQQRs3yr3lhI3k6jiDHcZxNSI6UXyrOEQae7pYl6l6xJynpP4L+okdOPL49ZLCG2zbY5ji/7sfeQMWuyKHXz3amPDh6y0/Gu0NC8E4daDhEjwgBDU+5dNZ96PGQ3mSOWF0Hm44t+9PKUXUyLKkeF0MhHLWIYBn0lJkyFRvR3Zj9jEJqvaGt4YU4hY36748xRkQATJKzvmdqzvtuu9FnC+n6r5aYMrQUmL2LYyVjIPPZlRXoVssVRl1vFIKFZyFY8QxS2XB7qvzfIM9aBwWbD3F0TzRKG/G1YFwli6SZF7Okb7newP29sYtNR/+pvAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/P2mVWAb5h"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:32:51 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"8BTJoc6OeIITU1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:32:51.524 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/P2mVWAb5h 
+14:32:51.849 DEBUG Logout successful 
+14:34:59.282 DEBUG appArgv = I:\Lines.txt 
+14:34:59.204 DEBUG  
+14:34:59.282 DEBUG Drive letter: i 
+14:34:59.505 DEBUG Full path /dr_it/Lines.txt 
+14:35:00.220 DEBUG 2YyfMwwRfShW21470M9N607200 
+14:35:00.900 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"dP5mdmVS1","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIPSURBVEiJ3ZY9ruUgDIV9RUGXbACJbdCxpWQD+dnAzZbo2AYSG4COAoU53JenedI0WFPNoDT5kKz4+NgOtT8P/dcsES248fFqIjt6cVhudTFhk2EudfZ45TCnNquvEk+vVk8rk62uXSVMlnY+W2R8k5pMXbkMecg6mXZQvH7kNsKg39oz+Dy/NR1i/fQwaiNx/qjlECt1MzRDAyly6Xic5aZR6t3R3Oraws5ht6HNKrLh1cRhccNgOMmKyytEukrdWczV3QH3eLnBrQyWfcwuvHwlg/t4cthN8Cn1YE7tRWQOa168jYJ4mxVv0o3FHJHRh4kH9S7hMR9vo98W1VOTDC8Oy0UtRrSiZlcXq1gs2QgJT99QcBTh4jDU7eOXeBiapD5ZrMRkwkJ4Q4M+uQ2yW6q5IFjdvTjo61tGWZK6OZEorAXFVyuHYZZMElNTJBMTZOAweDNhCBlxtXg+Ph1lyarF6psqSWigM4fdttscFWsu4PLiMDTWXFBwAbOnR79R1lo8bMDoXUx8Gx5DvM02yHDLsBjNYr1oNt4SxlFrEY3DsqcJqXuaPRE9PTPI+vyDu4k2glmeOT7IsGf2gs0Gv4jTf83dUQavbX0OqRfWcvveFYMMYw+4N5lO9K3pMMMq3ozGlktSrUy2l54KOiM3kVmsf0g85Ec89+yKQQb94BdsOSI0mZo57G/+6/499guPN1Q5CvoLIAAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/dP5mdmVS1"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:35:00 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"2YyfMwwRfShW21470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:35:00.900 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/dP5mdmVS1 
+14:35:01.092 DEBUG Logout successful 
+14:37:37.516 DEBUG  
+14:37:37.603 DEBUG appArgv = I:\Lines.txt 
+14:37:37.603 DEBUG Drive letter: i 
+14:37:37.808 DEBUG Full path /dr_it/Lines.txt 
+14:37:38.304 DEBUG jW4gnHx7EXZkc1470M9N607200 
+14:37:38.745 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"z0X6parrO","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAINSURBVEiJ3ZaxjeQwDEVpKFBmNyDAbShTS1YDtqeBUUvK1IYBNWBlCgTzvnfmsANcIgIbLE5wYL2AMD8/SRP/e+i/ZifRog25NiVVIg0SVrh55lLbwGZKuEpYNKttiOdj84m8kPmUQ+Sno03OFpefND/tZ7w+xm3RbbS8Uw7fuXUx6OeTeT/fmnax+9xhzErq8VHLLlbbammqx6hVqTfuZ5edQ6Qt0nQX8JhkDGbBcwysdk2bhHHNp1MhGdwg/yBhF7UtzpfDV6jC+SFhJfGpzRQbWeYoYxfBpwYajGS2qoqEcVKhzk8H1yg4jkUMHolEDjafQ80yljLk99FM1Yz6GCSsVLNQ85VWaoszIna6DJuTRt3gGg4Sxqmtmoaad0ujnh8SViJux2LNkO4GHUSsolzAbUvwqZkkjCtCqpMOX83q3jXvZKeGAPfQPS3M/uqPXnY51I13qwIMHnORMMyDxc3oEkTFi4gVpA53R5juAAsSdhFtlXdkf+8ZfoiYQxJt1ORrDvXll15W4gG/rC7v+hjtLGIcUavDp2O6W0SxhJVEo4PkM4q20LtnOhnOSerEPCDj+T3HOxkaC3t1pIyPeiSaJAz7bbXzpWm0GH6veN0M+9y18WsOnfRX027mk7ow+e4B/LHj+9hWYZmGzoCKRcSQB6HgX+LFHCTs1s9hy2GO5dOaScJ++l/vd7M/RNou7G9egQUAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/z0X6parrO"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:37:38 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"jW4gnHx7EXZkc1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:37:38.745 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/z0X6parrO 
+14:37:38.893 DEBUG Logout successful 
+14:42:27.855 DEBUG  
+14:44:52.278 DEBUG  
+14:49:47.174 DEBUG appArgv = I:\Lines.txt 
+14:49:47.094 DEBUG  
+14:49:47.174 DEBUG Drive letter: i 
+14:49:47.495 DEBUG Full path /dr_it/Lines.txt 
+14:49:48.193 DEBUG c4v2mWfjto8Hk1470M9N607200 
+14:49:48.731 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"fPNPT9wmO","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAINSURBVEiJ3ZY9juQgEIXLIiBrXwCJa5BxJfsC/rlA+0pkXMMSFzAZAaL2edwzu9ImVDqog+6vpVL5veKVif8/9KvZRTRHm5nGkDjQIGGZ6xwqOcusjoifEhbMXM6XSzmcc6RZyBayzZ8D20POVq6LPsdYRynjOmn11vYo6OXn2brYl37m8/lX0w6Gk4tt2m5Uh79e9jHoF2ly3O7adZCwXGBXXTxNPu0FekgYQzN1OUOkONpdxAJfvo4FKta5qCxhHIlcJW8PzGk8RwmDcmjk5RUXWjGqMnbi6wasz0XL2KVtczANw2IWnVjCmqe1pBzT5tFUHSXsgl2R396swaL2LmH5NhxjgkbMGi1LWPM2F4w5oyrzU6+Xwbc5KEaiMJx/6vWyi+yFkujFp43ULmKwy9XJ0+Iwp5/s7GRccL2+GNnNPXnQyxoZeAUVkSgcn156Ge7lHUIBN8wMrFjC7owPdg8JgTSRPSSsQT/I4Hkjxj8ihuwkBwn5cgrxuYpY5OZSc+eKXVFoFDHkEHYUwXA8kJlFDDmkMXFoJx0xZRmrL4f9hr1aJ/pkZyfDwai+dR0CDP/cj04Gu5Y7/JAlKsfv+9HHoP0aeHPq3sn3yEhYMJNDnCA+Uftbv242I8MCKmFTPfknYJNG5KejqIue3O1m94uAxWZ7eSxJK2LQb+XzdUcgSv5o2sV63+F+B/sDYO9TJf+W39UAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/fPNPT9wmO"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 18:49:48 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"c4v2mWfjto8Hk1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:49:48.731 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/fPNPT9wmO 
+14:49:48.842 DEBUG Logout successful 
+14:51:36.586 DEBUG  
+14:52:34.741 DEBUG  
+15:02:44.685 DEBUG  
+15:05:11.125 DEBUG  
+15:26:12.885 DEBUG appArgv = I:\Lines.txt 
+15:26:12.786 DEBUG  
+15:26:12.885 DEBUG Drive letter: i 
+15:26:13.118 DEBUG Full path /dr_it/Lines.txt 
+15:26:13.657 DEBUG UI.wdhzjTzVBI1470M9N607200 
+15:26:14.110 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"dAhqCJfBh","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAICSURBVEiJ3ZY9ruQgEIR7REA2voAlrkHGlewL+OcC4yuRcQ0kLgAZAXJv4efVBLuBO32WA/sbqYaubgoT/3vRr2aZaLKR9Dj4xJ5eEla4TW6cdCpVHQGvEubHuUISD3EONAvZ4mjgNrM55GxlPl0cQhukDHVo9dHmqFjLt7YnDP7NYbzvr6ePGK5SzanNRu317eUzBv9C9+/s2u0lYdmlPTRYOOGhdj8ETMcXq2xHIoUVHRJWQvq4NlS42Oaqdgk7MWi2kTOHT2fXFjAOpnDsHlhaWR0SBo3V04LlhLhoGcvaYNBQxMrjohNL2OmwBEIdO5ts2yBh6NtmY9/Q1UB7l7CChlsF/HbjGgxL2OlMJiQBRgbvZpcwZM9kFXPKGp03LGH5srBc5m13z58yDuPbIsYI1XC499ZTVk3xFyOzOVUkrNQR/w8XkSgc7rl/ynxv1+GRXvhRsYSdNs7e7D5dwW9EjBnhF9G0jXiz6ZCxNlmYx9mqD8VBwrJOpzWnbbOPayURK0yzx6BFwp5GFoqYh6Qqta01HSEVGWuDN1u3vxH9ZOdT1vOe29vRy6Ph9/54yNCuhaCEkVEl/N0fzxjE1sofwh2vkZGw7hn0EIHQHmcpq/iIQAX9pGIhmzQRpqyqTPc585RxWxB7dUSG4ZAcJAz+rYzww4naJVnC/ve99nvZH8AjR15dxtSPAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/dAhqCJfBh"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 29 Nov 2018 19:26:14 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"UI.wdhzjTzVBI1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:26:14.110 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/dAhqCJfBh 
+15:26:14.232 DEBUG Logout successful 
+15:26:42.088 DEBUG  
+15:29:40.397 DEBUG  
+15:30:46.040 DEBUG  
+14:05:59.839 DEBUG appArgv = I:\Lines.txt 
+14:05:59.810 DEBUG  
+14:05:59.839 DEBUG Drive letter: i 
+14:06:00.168 DEBUG Full path /dr_it/Lines.txt 
+14:06:00.764 DEBUG 7k5qjF5d72MPY1470M9N607200 
+14:06:01.121 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"oRh44We7V","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIISURBVEiJ3ZYxruUgDEUdUdDlbQCJbdCxpZcNJGEDyZbo2AYSGyAdRRTP5b/8mZGmiTXVDEqRnILY1/YF4j8X/desEi1sFlab4xBpkLCDzy92vkkdCZ8SFs2UziWqVdOQaJIytquzIXKQs6WdS0I2eZAy5NGQQVdi+i23Jwz6Tcnczy9NHzGsy9FIJXQhf9byGWvmxWb2kNAGzouEVW9Xz3gqqY3sIWEM8RpN7Xw7Wwl7C1h1ao8AZSV6a8USdiQzahW+9kPZdwnjZjeP8EtFr/WGlbBEr4bhMLOm0UNCAauOq+6lQ8dNaDcJuzTaxMyUZ60u/8njKavOrhqB5BeXo1kWMU+kC3PHQ/vMx1PG0eL/cILQ0DUydlGm7gSMiOAKh4g5bGb3VC5SeyssYr1cGOU8osH7ZIsYb/58sd10CcnuElZdHmKeqXdKaPSSMOwH21sSfBeTbUTsiBhKtac8RdRN7RJWvQpcUDHydqM8SdjlzegVN4aRhHRr/5BVshdZuNGe+nhNIqYhfCZnDxgS3/7ylGGe2onB2nzZ9DmIGCSHa+qCF6Lv+J4xrKoLJOcEy7996CHDOfPluCdMCF4oYjjfZp+J4Ac4YIUsmjflJSIctdLt2QKG2wfkJ5jo7ePP2dxbJo84LtzHdx+zz/2llY2QkJkkrN+bGpLoF4HAtEjY39zr/j32A47rKtKqIT60AAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/oRh44We7V"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Fri, 30 Nov 2018 18:06:00 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"7k5qjF5d72MPY1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:06:01.121 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/oRh44We7V 
+14:06:01.365 DEBUG Logout successful 
+14:07:21.659 DEBUG appArgv = I:\Lines.txt 
+14:07:21.636 DEBUG  
+14:07:21.659 DEBUG Drive letter: i 
+14:07:21.954 DEBUG Full path /dr_it/Lines.txt 
+14:07:22.610 DEBUG 5TIhy.rKPTIqs1470M9N607200 
+14:07:22.993 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"YQftMv1g7","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAINSURBVEiJ3ZY9jq0wDIWNUqS7bCBStpEuW4IN8LOBYUvpvA0kNhC6FBF+J3PvaJ70mrh9ERLwIVn42D4Jyb+L/muWiWZxS3RzMpJo0LBb6lzqLDSU62C8alhCJNlTnZnapWQL0YKH4g89W0Uee45cRy2TOlnzZf1Rzvk3ty7W9GP3uf7StIdhIYPH+o3q8FvLPgb9mKYgT4tdBw3LJDvXJdIUr700PfoZ9BvF5OCIjLDfNQz3HOtYoGKdghENA5hCpShHukTOQcOETY7td7ZAq5hDw9Apa5Ivi045F6tj2XrhcwluZLfYSzTsibQWNySzQ4xQRw3L8dqC36J/gkfsXcNuris7CuhQt7IXDXsi6kavaLaI93e8XiZMSzQPnQPmUrxoWCbE8zf7BwnZTx90sie4V6hTpAWNlt691stELhhYY+S38PaDbsZtFqEiHAV9t2vYYy+YwZGacw/y+b9OBo8fk9/TBUOayOtYEci2RNlgDLB8Dcu2UjingF4zRzpXDbu5SYinOeELjSomzeP39N2q8EIVS5JbzWF+183XrWP1FWQLsMBK9OOdfQwrw0iKkYKCf+ajk6Fcq9QR1WNz88989DHsbyvLwW4K53fLaFhyk4XqBgeBTD/6dbMZO2pBBm2nEiWbLFG4jmKQ06hiUhfYXnEvHH/47dm97Fu/8xUxnS2kaFjvGe7/YH8AmRZBnWrVTpQAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/YQftMv1g7"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Fri, 30 Nov 2018 18:07:22 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"5TIhy.rKPTIqs1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:07:22.993 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/YQftMv1g7 
+14:07:23.158 DEBUG Logout successful 
+13:27:54.342 DEBUG appArgv = I:\Lines.txt 
+13:27:54.290 DEBUG  
+13:27:54.342 DEBUG Drive letter: i 
+13:27:54.569 DEBUG Full path /dr_it/Lines.txt 
+13:27:56.760 DEBUG mxHivFDCKwKSc1470M9N607200 
+13:27:57.286 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"1maT9OeRW","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIESURBVEiJ3ZY9jsQgDIUdpaBLLoDENei4UnKBZHKB5Ep0XAOJCyQdBYr3MT+albbB7SKKmS8Swg/72cR/F/1rdhItii9vTsubp07CLi5roNnzqdIV8FfCvJ5sujjtFDt8lDJnLtzC8yZnay4r08q/z2tjiCP3VwDT86/YWhj0m4N+76+mTQzrtjRQ2nDw9y3bWNYj68WV1ZuN4ypibB6OsU/qdwKWsExrpjmXyZqT9CphV+jZA6QH0aT6S8JuVRaVjud5m+dDxKzZXb/btCsi97pLK+NAY6aFDH4M7q1BI0NJncrcCl/KjHSTsFuhPqB9GVS63Se2NnZa81C0+nSEdGXDIuaoqxFgxy6/6qOVsTcH96fSC+FGMnarSI4mG1Efq/+8eSuD6kjzdNv+yK8cb2bwP4dSjgOZK8jY5avwI5tdpa3GJGHVBuLyrKot0yhj5oAJhTIRKluL2E16zP0RIk7tPvo1MwiQ8GLkzOHjKGEc4uCQZQwjeUAGCTtRVT6drq/Jrt7518oUhIflwwzgnT2LGOoJvaJWBiyhdCJWJS9zoMVqos/92hhW9YNnTW/89qFG9uoztS0H5KmM1f7my0DoTnpmIfN6xqO5Kt6DXvoJ2ETo5BECjJkPIUNqw4QGtAv7nl9aWW2neHPMIGVx31mghUE/gOM5CGx1mhCw1hnuf7Af7JkwUXPUVQ4AAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/1maT9OeRW"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Tue, 04 Dec 2018 17:27:57 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"mxHivFDCKwKSc1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+13:27:57.286 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/1maT9OeRW 
+13:27:57.672 DEBUG Logout successful 
+13:45:17.326 DEBUG appArgv = C:\Lines.txt 
+13:45:17.238 DEBUG  
+13:45:17.326 DEBUG Drive letter: c 
+13:54:24.328 DEBUG appArgv = C:\Lines.txt 
+13:54:24.242 DEBUG  
+13:54:24.328 DEBUG Drive letter: c 
+13:59:12.519 DEBUG appArgv = C:\Lines.txt 
+13:59:12.448 DEBUG  
+13:59:12.520 DEBUG Drive letter: c 
+13:59:12.729 DEBUG Invalid file 
+09:05:21.192 DEBUG appArgv = C:\Lines.txt 
+09:05:21.129 DEBUG  
+09:05:21.192 DEBUG Drive letter: c 
+09:05:21.595 DEBUG Invalid file 
+10:24:49.295 DEBUG appArgv = C:\Lines.txt 
+10:24:49.224 DEBUG  
+10:24:49.296 DEBUG Drive letter: c 
+10:24:49.754 DEBUG Invalid file 
+10:26:57.167 DEBUG appArgv = C:\Lines.txt 
+10:26:57.108 DEBUG  
+10:26:57.167 DEBUG Drive letter: c 
+10:26:57.381 DEBUG Invalid file 
+10:39:50.785 DEBUG appArgv = C:\Lines.txt 
+10:39:50.742 DEBUG  
+10:39:50.785 DEBUG Drive letter: c 
+10:39:50.942 DEBUG Invalid file 
+10:43:57.553 DEBUG appArgv = C:\Lines.txt 
+10:43:57.492 DEBUG  
+10:43:57.553 DEBUG Drive letter: c 
+10:43:57.802 DEBUG Invalid file 
+10:52:13.092 DEBUG appArgv = C:\Lines.txt 
+10:52:13.033 DEBUG  
+10:52:13.092 DEBUG Drive letter: c 
+10:52:13.315 DEBUG Invalid file 
+10:52:44.941 DEBUG appArgv = C:\Lines.txt 
+10:52:44.890 DEBUG  
+10:52:44.941 DEBUG Drive letter: c 
+10:52:45.143 DEBUG Invalid file 
+10:53:10.949 DEBUG appArgv = C:\Lines.txt 
+10:53:10.879 DEBUG  
+10:53:10.949 DEBUG Drive letter: c 
+10:53:11.199 DEBUG Invalid file 
+10:58:48.304 DEBUG appArgv = C:\Lines.txt 
+10:58:48.237 DEBUG  
+10:58:48.304 DEBUG Drive letter: c 
+10:58:48.540 DEBUG Invalid file 
+10:59:45.472 DEBUG appArgv = C:\Lines.txt 
+10:59:45.415 DEBUG  
+10:59:45.472 DEBUG Drive letter: c 
+10:59:45.645 DEBUG Invalid file 
+14:35:43.498 DEBUG appArgv = C:\Lines.txt 
+14:35:43.373 DEBUG  
+14:35:43.498 DEBUG Drive letter: c 
+14:35:44.074 DEBUG Invalid file 
+14:46:45.683 DEBUG appArgv = I:\Lines.txt 
+14:46:45.626 DEBUG  
+14:46:45.683 DEBUG Drive letter: i 
+14:46:45.865 DEBUG Full path /dr_it/Lines.txt 
+14:46:46.199 DEBUG sjDZNGxXaSdwI1470M9N607200 
+14:46:46.765 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"yCi0xi4id","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIISURBVEiJ3ZY9ruQgEITbIiAbX8AS1yDjSvYF/HOB8ZXIuAYSF4DMAXJvMeO3etImdLqWE39BDXR3VQ/xvw/91ywTLYGGkNgr9jRIWOE6k7lpGq90BnxKmJ8WngYfx9CEFyFbadq4DmxOOdtCXTUOUkcpwz20emtzXnH5dbce9qnf9Ly/a9rB8JTL3NrshKv87WUfQ/0CzZbvpl0HCbs1M2rgaHbpuKZRwviikVW2E5HiYFjEvHq7Ol6oYl0udUhYdtNs68vx4dPt4iBhHFTBrF2pXLSxOiXs1hHzMnDadVy1jGUNc6hMancTJo4l7Ha0+br4lJ3Jto4Sllu76sbp8Abah4QVNNyi4dOsYZRv33rZ7UzBaHsYC99fvV7GgVYLT0f0fORnXjpZtgaVWwIsknZ6/NbN6svW2UEVc/pkZydDABT/YQThn4zoY9m130cVkSiYu0PCbqt2hJCnlqCsWMbq4A3MgUBCeBcJy5rfmG7HO+FNp4QxV7JxtRhShfgcJQx63I5PRHFruSJghdvx33AkytB2joR5SKojNHtxSEXGEELmhkWoUltWAsafhi+ejxZ+jz86GdrVzOHiy6ny+LKXYb+tuhkLHfiMjIT5aXZ1YahC+6d+3WzxcbmghE0VNyGbNZFN54UE/e6obtbuYbDZXp9UOCXsW7+Xa5EPSZaw3v9w/wf7A3NsOdJYtX1AAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/yCi0xi4id"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 18:46:46 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"sjDZNGxXaSdwI1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+14:46:46.765 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/yCi0xi4id 
+14:46:47.117 DEBUG Logout successful 
+15:05:16.117 DEBUG appArgv = I:\Lines.txt 
+15:05:16.075 DEBUG  
+15:05:16.117 DEBUG Drive letter: i 
+15:05:16.228 DEBUG Full path /dr_it/Lines.txt 
+15:05:17.008 DEBUG jUVomKPR6vmNk1470M9N607200 
+15:05:17.356 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"Wurv7czZB","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIDSURBVEiJ3ZaxjYQwEEUHEThbGrDkNpy5JdMA7DawtOTMbVhyA5A5sJj7Zg/dSZd40kNoJd5Ko+F7/h+I/170r9lONIe8Bd7CyIEGCTu4ziUNgSYet4hHCQt6jvkoeg00R5qFbLE0lToUs8nZGvlUeYt1kjKuXo1vZbaS5p9362JNv6i/71+a9jBcRzGnMk+qw89Z9rGmH3nLZ6tdBxkzHOviyLv8wgmIGOuZx91qopGjeUnYEfLTVZybV9XTuEnY7irZSs68Qj5VmiUMyqGRiXm3tPKnXj9Li0UlIpcWJWO7MqetC/50elGZJex0tIamweLQVJ0kbHf5SfRQsJdB7ZeEHbGuEV1AQhjFsISdzhzcVL+G9FOvlyF7FqVXeBq+LIYlbFdXSbTTXigNIkbV2+odLRZzOrKE4SU4XIwMBnaWsJ0S/AQVkSi3P3oZgueJEEJwsh747qWPcQvsZo4WSLemnewoeceYO34S7ixiHLW3sAi8Nb7p48tedsRW4+2ShxiFJhHj1v7ZQoUmZKGIBYwMxo2GkhnLSsbqg/IRxjY49MnOXsZXApHjN42v2x+dDMe1Yj0SMns8vn3Zy7DfsI3XggNM18hIWNCe6hX2qH3r183wDYLfoW2qtAqZR+javBVIeO+PTsZ1QewV/XBtSU4S1vTj9HDYqK0kS1jvN9z/YF+CaFEAtO82YAAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/Wurv7czZB"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:05:17 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"jUVomKPR6vmNk1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:05:17.356 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/Wurv7czZB 
+15:05:17.533 DEBUG Logout successful 
+15:05:49.963 DEBUG appArgv = I:\Lines.txt 
+15:05:49.915 DEBUG  
+15:05:49.963 DEBUG Drive letter: i 
+15:05:50.125 DEBUG Full path /dr_it/Lines.txt 
+15:05:50.451 DEBUG NrU5ViroX2nVc1470M9N607200 
+15:05:50.672 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"GoIAzLsZf","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEiJ3ZZBjq0gEEXLMGCmGzBhG8zYkm5Anxt4bokZ2yBhAzhzQKx/efbrzs/vpKk/bIIDj0mFulV1kfjfRb+aZaI5jKtPm1fsqZOwg8vsaeaxY7UHvEqYHycbsTsf54CPMrYy9TrOp9n/h/Hl0h7KIGVcJq2e2uwnzvKZWxO79fvYf2n6M8M6TnNp86DSfdWyjXlEosnyVWOXTsRqucriaHJpO6se7Sy7uLLKdiRSHAxLGJLIrgwnVCyTVZuEZUdkS+/M7hOHOEjYpRXwUFUkHGqXsbiQgYpDiIuWsazN5TAc6anHRSeWsMvR4hJaLDuTbRkkLKNcGC/NuzeIvUnYEQrM4CIiPa7vujWyy9UwT8KJ8H7Ha2UcaLE1zIa5PO94rSw7fmhzcBXv8ZlbI6OCfpmgooX/vb2zkVl02YuReTh1SBgezCJUhKNwuHu8lWVS0G9/Wy+LmIP9mM2nakinOUSsyhZRtAdhJxG7NEzo5UNWPSl2EnaEu02op7ieNIgY12CZ0tNSBy8UMV8tv7c1CQ7pkLGCU2A4Bl+Ibu9sZVjZ1suNPQr+MR+NLNepoqk6ijreXtzIkMTqaagTFl8tI2EwEpeyrTOd6a1fM5t9OnwtHf4IViGbNCw/7adCvEHEuCywgXPsXb2WRQz6rRx7hxu1hmQJ++5/7feyP7EYJ/BeVz4/AAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/GoIAzLsZf"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:05:50 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"NrU5ViroX2nVc1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:05:50.672 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/GoIAzLsZf 
+15:05:50.767 DEBUG Logout successful 
+15:06:16.261 DEBUG appArgv = I:\Lines.txt 
+15:06:16.194 DEBUG  
+15:06:16.261 DEBUG Drive letter: i 
+15:06:16.443 DEBUG Full path /dr_it/Lines.txt 
+15:06:16.836 DEBUG tqqtDmjiqmTcE1470M9N607200 
+15:06:17.064 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"r3gj6qAB0","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIHSURBVEiJ3ZY9jqUwEITbcuCMdwFLvgYZV4IL8HMBuJIzrmHJF8CZA4ue8oJ2VtrEPeFYBPAF1uuuqu5H/P+hX80uonlwW7Yduc2TkrDEZTrd3ccjh8+JTwnzdiR3DaHry+ekScimXLohcrY/YT4mj2pokrJaR7wHvXFM/9bWwNC/6bTv893TJoZz97wPeje8fWvZxs6gsmO2n6z3nj4Sdhu3GtsZO/eB0H4Rwx3eLswp80q0iJiJB9vFhxm9zHgXsTIDZzv28CmLWPIa0o0UmfUN10gYOkd9WE7ciherJOwmhINm0gkKnPqQMD6LYqt8XIe4m7hJGBK5UoBuqtrt8WkruwaqdXh8wThPPppZ71IuSy4zlXl472tkd1/IIFh24r+5bGbGQTd10khB+SJiyQcyGCTx8LxlnSQMoVzJkrEjWphfzRvZNZRPNbiDYlt+ctnKmONxMobfkh1kPyTsotq5zpDCBDVPLpsZdDvBYLSismYJuzHpTU2J8qiJRYx9LWX/k2zOYZGwy6B/0BwKICjv72tkXDOBzRa6IYzVdAJ29YQ9U8dYht10kjCci3g1GNtYFE7E6p7h0JHeB97efLSyOvz6uNUVF1NNmIR5W9NMMIteSbOYkfKEHZVejwsYJv3BGJ/YkE+2mhmXBdJ5TDIH/RcJQ/+WOgkAYHY7SVjrf7jfwb4ABgNGUIPzfRMAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/r3gj6qAB0"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:06:17 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"tqqtDmjiqmTcE1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:06:17.064 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/r3gj6qAB0 
+15:06:17.170 DEBUG Logout successful 
+15:11:26.072 DEBUG appArgv = I:\Lines.txt 
+15:11:26.024 DEBUG  
+15:11:26.072 DEBUG Drive letter: i 
+15:11:26.228 DEBUG Full path /dr_it/Lines.txt 
+15:11:26.665 DEBUG PtcmEAH8hexpI1470M9N607200 
+15:11:26.938 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"SIkQRAntJ","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIDSURBVEiJ3ZY9ruQgEITbIiAbXwCJa5BxJfsC/rnA+EpkXAOJC5iMALm3eDPSW2kTOl1kjcafJQTVVQ3E/w76r9lNtPRfezs+A00SVrjtNZ81l5qviFcJC2at+fFmDrRGWoVsZ3WQPSOfcrZGfjwW0mYpwz6ierS6OK1/7W2EQb81mu/zq+kQw7idfWt16Db91nKQpT3S4vjBujClhN2kHs+H73/eUFHCCmMOdTtD+KhtkbBH56tbJi3UFlIidvv20vCa2Zw9HF8S9sDdPs0Vu6HNKxYxnfpMlKaYtl55AUOk8FzR7LWtnCYJ60tw+U1pZkSzzRJ2u3z4zD1YtsSP9sPM0xRyYWwiTfWTj1H2OFsq3tpcsa5vzQcZ9ywagFsDW5awxwFbhHJz6qq0S1gJ6eXa0lVU+MgSxlXd1MibTSMc6pSw26U9pO0nVXDrLGGFFcrFvYMa8h+vjbLHtynYM+TekMJXv0FWAmoFyxB5C8ftEoZckoN4MKl6uzSLGGWU7qroZCjdp27DDDYJRNqQQ7Y+mR5lJQLT3g+K/EZTEbGALNpD56f3MLNLGEaJ9OqtF5PJGMrVHVrRTn6KL2E43xYPvyAlaWWzilgwm4fq/YQ86KufgLncbx9oJLhKSJkmcvnqIbMyhkMGslW0z7Z5WyQM+u2cXkgJ9ylZwkbvcP8H+wN6XVpOr4uFowAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/SIkQRAntJ"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:11:26 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"PtcmEAH8hexpI1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:11:26.938 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/SIkQRAntJ 
+15:11:27.032 DEBUG Logout successful 
+15:14:09.717 DEBUG appArgv = I:\Lines.txt 
+15:14:09.674 DEBUG  
+15:14:09.717 DEBUG Drive letter: i 
+15:14:09.874 DEBUG Full path /dr_it/Lines.txt 
+15:14:10.557 DEBUG wkuCml5d.ldgw1470M9N607200 
+15:14:10.888 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"x2zkuP0Sz","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEiJ3ZaxjfQgEIXHIiBbN4BEG2S05G3AXjdgt0RGG5ZoAGcEyHOP9Z7ul/6EufCQtVp/ARrePN6Y+P9Ff5plooXTi46Z7BpokLCT6zOahS3zMUa8Slgwz0JjocnXMdJTyhhvvBfzGxbSGWj29JSydo50ebVyOv89WweDftDg8/xo2sWwLsebV5vm9aeXfSweQ4HwZixqczRKWHYpa/PQZnYHuSpi3MpHz/ksvBYSsYvSyWYJ8BpwOkXMH7NOe6mzsy+6NehlmWz2NGt7srp8EjEoN4RjiIa8IWcGCbvIXt4MxbQORLVLGMdKLl0a5aRNp1XCLpdWFOLs5mG326e9DAKgEKL0Ns59P7qZs1kTaZtdnf1nv052uXcMRDPgN9z79TLsh3OvkSaHDlQRg/CkE5e0B/hUnTJmNwI2k0brjkHE3G3wd0WIMQnLhL4xF7MU+/JplzDcj4XpodG9JuQoYVh7BIPR6lAUS9g7SPCvjqE1XMQ4QHic5sCWl0NdApY1yoe7UQga/l1LH+PYyiGnsj5Iq1XCsqNJK9xOmHQidUoYFm4GNctgUFgRa3MGkpeW1utnvvUyzLeJkJrwaQtgGQtm1hXPw6sX3fpJGCncqh0X6zMrBGxydmfCrECMDSLGdUHsBaIWSHfe97L23dSSAMCe0TwlrPcb7m+wL0qRLWYPKU2oAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/x2zkuP0Sz"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:14:10 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"wkuCml5d.ldgw1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:14:10.888 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/x2zkuP0Sz 
+15:14:10.997 DEBUG Logout successful 
+15:18:29.679 DEBUG appArgv = I:\Lines.txt 
+15:18:29.637 DEBUG  
+15:18:29.679 DEBUG Drive letter: i 
+15:18:29.833 DEBUG Full path /dr_it/Lines.txt 
+15:18:30.162 DEBUG JDTieAO1fG5AY1470M9N607200 
+15:18:30.611 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"OP1imsnyn","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH6SURBVEiJ3ZaxjfUgEITXckBmN2CJNshoyTTwbDfg1xIZbSDRgMkIEHvD8//fBZd407Oc+ENCsDM7a+LfD/1pdhG9zHiSzn5kT4OEZa5gmePglyHgU8L8spU4GVppPAI5KQvLy3Iu+i1nq1lm1rmkQ8q4bsyXIbI4y/fdHjHUz4Xl3/tT00cMz2XrzKnZ9P7R8hnzlWydVMR+pLSINaVzqC9Lq01HWTYJ4wC/QPD4srgHDiVgzXIveUjs9W7u+j1ncTV1svrwqeE2EgabcBmbAtCXiZuIeZos5BqxgtpnCbuUbkafCivLSyUWMeo+BRgKbaxFDEe4aNwNzaEOnETsI3i3DDpsC1rEsFlTI4cx+y6CkzGYpToft6IbpUPCGqF4i2NEQtqpDiLWPaKPUEktK/FbwtgzijdR7xLntYg1E9ETAOunEoeEZVjMI3rr7Mfz27vP2AWLGUgN3dJuUpaxtCs0NO+EN71FjHCPhKaEAohPEUMMnApXQdhjUt1+ecoy02r4RGAXwpgSMeaeQOiwAbLT/8x+xppaNj/uFl2CFRn75D2tKg4FgutDwvqcKRANwdlHzSxhfZ4TuplIYT/aRMwjurrjTtUzyQkZ3L1T72nmuz8EzOE4ClGEMlQnYh1oTDbEpwu3156y+78JU27rAzbOEvb0H+5vsC+ABR+nO2JjVgAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/OP1imsnyn"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:18:30 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"JDTieAO1fG5AY1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:18:30.611 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/OP1imsnyn 
+15:18:30.727 DEBUG Logout successful 
+15:18:43.763 DEBUG appArgv = I:\Lines.txt 
+15:18:43.703 DEBUG  
+15:18:43.763 DEBUG Drive letter: i 
+15:18:44.005 DEBUG Full path /dr_it/Lines.txt 
+15:18:44.499 DEBUG NX.vciEs9GRCY1470M9N607200 
+15:18:44.985 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"jrbpnxC2y","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIESURBVEiJ3ZZLqqYwEIVLMshMNxDINjJzS7oBHxvQLWWWbQSygWSWQbD65N6/4UJPLHrUHUT0Ew7W6yTEfy76r1kmWtlMFXdVPA0SVrgtlC6KA74EvEqYN3uljeztzRqgKmOrjxulZ6ZdzpY5js6Mrq1Shjh0Gx0flO4fsb1hPX/BfK4fOX3D+uoyZiN1/qjlK1bb5miqcdSq1I7fszzz7Wn3NHFbOe4SVoKhGRdqDrFP/l6yx6VjVncwULpcmySs+Dh5m7/08pxYxEIqAZ0SN8cPpVPCHjI7KsapP1RVJIwDgiBMxhnURZZFzBMRX13M3jXJWMBfEGl8NKOOg4SVahZnhtBGastsRAz5RpMuGmVH1/AtYRz6OA4hHY5GbU8R8wrlyvidbkhtkLCs21Ah1vagDh0nCXtmW7zKFNdqMGSriLlIuk1BZZcy0iBj9oIJOXVzOn0qElbQ3bN9qEF1mS1LGLPtjeaRyAh2SxiU9soHKh+wz/ApYczwg26cU013/fTLSwY/QBxot4Hj4qyIoV+yRvUM6jZUxRIGIxlJXbBexoh9ZuYlw8rabCh7haN8fPwlwz6zYbA0jU6dMBUJw/626dSdr8L8vvVes76fwwz4rjbT75y+ZpjpjbrfI6BVyHCOgCRYYZIxxEHp0F/J83GSsJ6/GROGonVHEbG/Odf9e+wXrXQoDgNfpjkAAAAASUVORK5CYII=","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/jrbpnxC2y"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:18:44 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"NX.vciEs9GRCY1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:18:44.985 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/jrbpnxC2y 
+15:18:45.212 DEBUG Logout successful 
+15:19:25.245 DEBUG appArgv = I:\Lines.txt 
+15:19:25.174 DEBUG  
+15:19:25.245 DEBUG Drive letter: i 
+15:19:25.457 DEBUG Full path /dr_it/Lines.txt 
+15:19:25.900 DEBUG zoJ3YMezVqWbk1470M9N607200 
+15:19:26.156 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"yfO9cZEJZ","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAICSURBVEiJ3ZYxzt8gDMUdMbAlF0DiGtm40j8XCOECyZXYuAYSF0g2BhT38TXVV6lLrE4tYslvsMzzsx3iPw/91+wkWme7E40zh0iDhF3c1tlMKY+6XAmfEhbNx9mDy67zkGgRsqWqwCpEDnLmY/NJMf8e7x3j5qu6Enk2y/fbXjHotyTz3G9NXzGce6aRSkDg71q+Y9VMbFbXfLSBs5ewc+bT8eaQlNrJXhJ2xTxUWmr7zPaczSJhnOwRAcpG9NHqkLDry2VHNYjXyy5hXO0+Qzx7ayJnvIglmir5SjDL6GyQMOh3VdSt4S6wm4TdGjbhTSvc2/EhYSeentrA+YO+rJZFzOEFaJFM+quAEsYRdesV2wmukbFb5wm9VSEAoqpLwqDfwZhD5SaYpbCIUV4dWjmPMHhkEbtY7a5NbHddQnp8+palNsW8UndK6D0qYgp286l9CJ0tZFCuqiPlBaWjJ5eX7IZfuKBihMldH5++ZKdGW6BujEGyQQYRI3Xrgqi7Nqt+/PeW6TZ2q2LLwTKKRQz9lMwAq7py6zaIGCQntTnsKEP0K793DAchdzLUBXjm0EvW9wxmp8OOsleSsb7fYh8hpzMLCxn2+Vw48u7URj/1EzHuliEM0XIIGaw9ujxiXcwqiFhfp8bXslNbnbokDPr5nkL/EQhMXsL+5r/u32M/AENOJR2b1bqQAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/yfO9cZEJZ"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:19:26 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"zoJ3YMezVqWbk1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:19:26.156 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/yfO9cZEJZ 
+15:19:26.288 DEBUG Logout successful 
+15:24:07.045 DEBUG appArgv = I:\Lines.txt 
+15:24:06.991 DEBUG  
+15:24:07.045 DEBUG Drive letter: i 
+15:24:07.229 DEBUG Full path /dr_it/Lines.txt 
+15:24:07.591 DEBUG tunxYDDd0lZNo1470M9N607200 
+15:24:07.826 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"QGfmINz1J","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEiJ3Za9jeQwDIVpKFA2bkCA2lCmljwN+KeBdUvK1IYAN2BlCgTznuxZ3AKXiBeuYQzG3wAc6pF8NPG/F/1qdhK9g/3ydQiKAw0SlrlOXm3Rcjn2iEcJC2YiM0S7B3pHegvZEtQe6rvY/T8Y11kjkTpKGc6h1Ze2e0nvH2frYU2/aD73D017GK5c7KXtSnX4W8s+FhCJJsdXi10HESuKY509Tf7YCvQQsBzTwOp0hgg/2k3COKrT17FAxToBS9jpEznz8ryH49JpkDD8PxJZWO2FZq92CUOMWZsXpal9kbFTWw4qt04x6DiWsMsjBVqKmT2SqqOEnf5Ap4x31yD2JmEZBSf0GsQwCyZbwq6WAoRvw8H8xOtlHGmJj36ovGUJu1wL+Yi36qfHuxkZcrAxmh38Ly0SBtvL4WZkV6+yhCEeYkBFOAr6fZOwDMPWt3GywZCxhJ0a9mO3cDzGn0WM1Iru9rwSr+7Tu50sc5pcmlEBh/FKo4SdbSYUFySSlkIilrl5PGreALxQxEITHj5EhHVxZBmraNKXxyc87OOdnaz5PZYbHDSg4J/56GQo16yxGDHWcBTLEpbbYrSrI3LpbhkJa3sG8TBbiP2tXz8LGBG8DrRNxUI2aSRy7EUh3ihi9zmw2V4eST2e3cug38KtbgO3kCxhve9wv4P9ASXiRTz2GmMQAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/QGfmINz1J"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:24:07 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"tunxYDDd0lZNo1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:24:07.826 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/QGfmINz1J 
+15:24:07.946 DEBUG Logout successful 
+15:25:16.582 DEBUG appArgv = S:\Lines.txt 
+15:25:16.533 DEBUG  
+15:25:16.582 DEBUG Drive letter: s 
+15:25:16.759 DEBUG Full path /sc_it/Lines.txt 
+15:25:17.379 DEBUG jfMaAeHhKn90I1440M9N000187 
+15:25:17.746 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"ESahYzYTR","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/sc_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIJSURBVEiJ3ZbBjbQwDIWNOOQGDURKG7mlpaEBYBqAlnJLG5HSALnlEOH/ZWdnd6W9xP9xERoNH5IVP9vPEP++6E+zi2gJkfBbDHsaJCxzfSizO3Oy4YBHCfP6QXpVKfs4B1qEbPMVRzi5/gdbrdkp7UoPUtbyiAuPu4UYP3LrYB/66c/7p6YdDNfl9MJ6YJO/a9nHoJ8bd1XJxYnqIGG5mNsahnisSdVNxuISKlm+bcoou4h5aGayr1vRkxpF7CLIhr/6gZbhOEtY9uOTx6dPT09befdBJws0t+Og7Ch+nUXMm8uaw2E40OzplLBb6a2k28bJ4eUrXj9Ll4MG9WH5UshJwPA0UWwZBGhPs4TlwDeiYqxdXfitXx+7HW0BXjKeoc7FnCKGUhfaPDqOhvCVWxeDZpPFYPFuDc7FEsZlzIV3Be1b5TcJuyxajA9q1UM2WcIg3kHj6ZujkHvNRy+Dkcyt3eCgYw4mS1gOcGua0KEtm1HEbtWEJxgnE6k4SBjEQyq7SjvFpbzq1s0Yxol4WG649SxiGGhMpGPEG/y3N3Uxjg+LBtdzaYtukbDm95YPBf2QxEv7XoY9s9p0BtQt5fD2zj6G/baqNpQzQ3gjY9gzsOoCP0BsMYP264eZrfZzzwhYqQ+H6UwHmVPEGBsmrm48XDuUiEG/jc2t8BLu+6VpF+v9hvsb7B9xJFKn6ifKgQAAAABJRU5ErkJggg==","request_info":"","request_name":"","status":"valid","uid":1035,"url":"http://sc-files.fenix-mfg.com:5000/sharing/ESahYzYTR"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:25:17 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/sc_it/Lines.txt","_sid":"jfMaAeHhKn90I1440M9N000187"},"url":"http://sc_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:25:17.746 DEBUG http://sc-files.fenix-mfg.com:5000/sharing/ESahYzYTR 
+15:25:18.097 DEBUG Logout successful 
+15:25:50.373 DEBUG appArgv = S:\Lines.txt 
+15:25:50.318 DEBUG  
+15:25:50.373 DEBUG Drive letter: s 
+15:25:50.564 DEBUG Full path /sc_it/Lines.txt 
+15:25:50.975 DEBUG XZI5P1cb9Yc7M1440M9N000187 
+15:25:51.267 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"Kue5JeG9d","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/sc_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIISURBVEiJ3ZZBruMgEETbYsHOvgAS12DHlewL2PEF4iux4xpIXAB2LCz3lJN8/S/Nhp5ZzaBIcV4kZKqrqyH+fdF/zQrREs8hmKUpDjRIWOVz9vbh7cFmi/gpYdgpmFWfS+Aj0iJkq8s754PP6U+YIZdIm0HKcA6dFlYPBzG+z9bDXvqZz+enph0Mq3izsBnY1u9a9rFgZq8e+iSfRjoHCauNL2cZ4rEhfW4SdrkTfiGHh1y8rRLGAZrZGs6tmVGrXcIugmz5VYFcdJokrJCFWTiqPdDS3jXvZTXSFIDTwCfcOolYsMXzw9k9GiK4VcAubbaWL59WdJh779fPbsnBlsblS79OhmqPLi0xPz20p0nCamRumd9tzV/69bHL4xtZoo54Ts0eMobNCDJUpuHTW72soDMcGuuWvwbFEsasuPFDp9GjV7KIFUdT4yfd1cNpqoRdBKCOcCcK+fe79DJ0BnxanNmCKtpWCbu0qoFGOLTxzkrEasRONCI4GWZJg4ghh8helC+CVd8+7WaM4Ezk7Y7uDGYSsXCPixkZRmn71LybcZq9Wb2ZmpmRSRKGBZsckZ8Oh/hkZyfDnFndPVE3pGBULGGoOVKE756G8FbG7jljOWAg3zkqZQgSTAzIsLrP7BGwhmsI0ijfZhcxxoRBcCpk2KxlDPptbC+NP/NrSArY39zr/j32C73BXQkA3ieiAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1035,"url":"http://sc-files.fenix-mfg.com:5000/sharing/Kue5JeG9d"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 19:25:51 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/sc_it/Lines.txt","_sid":"XZI5P1cb9Yc7M1440M9N000187"},"url":"http://sc_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+15:25:51.267 DEBUG http://sc-files.fenix-mfg.com:5000/sharing/Kue5JeG9d 
+15:25:51.436 DEBUG Logout successful 
+16:45:52.288 DEBUG appArgv = C:\Lines.txt 
+16:45:52.220 DEBUG  
+16:45:52.288 DEBUG Drive letter: c 
+16:45:52.447 DEBUG Invalid file 
+16:46:16.594 DEBUG appArgv = I:\Lines.txt 
+16:46:16.529 DEBUG  
+16:46:16.594 DEBUG Drive letter: i 
+16:46:16.758 DEBUG Full path /dr_it/Lines.txt 
+16:46:17.239 DEBUG eYooi4CDvQqa.1470M9N607200 
+16:46:17.515 DEBUG {"data":{"data":{"has_folder":false,"links":[{"app":{"enable_upload":false,"is_folder":false},"date_available":"","date_expired":"","enable_upload":false,"expire_times":0,"has_password":false,"id":"oXNFA27gz","isFolder":false,"limit_size":0,"link_owner":"api","name":"Lines.txt","path":"/dr_it/Lines.txt","project_name":"SYNO.SDS.App.FileStation3.Instance","protect_groups":[],"protect_type":"none","protect_users":[],"qrcode":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAACTAQMAAACwK7lWAAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAIISURBVEiJ3Za96eQwEMXHKFBmNyBQG8rckt2APxpYt6RMbQjUgJUpMJ572vWfW7hEw0V3YjHszzD4jd58EP956L9mJ9HMavfXojl76iQs87VQOt01B8UBfyXMm2WMczATmTUgtozNJfYu9hrxxAwKNm0Pbzopqzr4KPZ0vH9ra2A1f8E8v6+ctrD3SVws+5S/77KFBZpG9XK0jPYeU5YwPHZPq6eBr5njLGE3xUVT79KGYOHqZAxmoV5fQ0h7+ehoZo4GDwVx4HTqdEjYqdVWTWq54D2LGOLNDLuZgRHy45dWxkEdXrG3LwgiyxKG/M1F5SqF2X+81spwTo3yQlkborRLWC5mZnuT6fEto+lEDI2EI4x2alTJE6+RMcdptBsZcnbTVydhmdPtYBm7V0FRxG5cuOfXyLeGDpIxDWtTrWZPk1NZxOiaqsHV6Wq8VcJObU9Kr5H6UeXy4902lktcnFm9mcaI5yxjaGNgMFq9hEPCMCVWnzb0IQ2zJ5YwDunl0h7wBpa5BgnLPq5seofAyP3zfY0MfWhD2y7V4LO3WcIyG9Lw+LUWjDi7SxhO9moHcO/hLGGYM2tQOQCjk5lOwjDfIB0lwgXFQTJWnQKLXb2rOg4hW7EIYEBpQ+On/wkYpN/OYFZw+b0fNLH3/rJp896AnvpoZMjfUjsBgNqee2tlf7PX/XvsF+8pUXvZypOxAAAAAElFTkSuQmCC","request_info":"","request_name":"","status":"valid","uid":1031,"url":"http://dr_nas.fenix-mfg.com:5000/sharing/oXNFA27gz"}]},"success":true},"status":200,"statusText":"OK","headers":{"pragma":"no-cache","date":"Thu, 06 Dec 2018 20:46:17 GMT","x-content-type-options":"nosniff","server":"nginx","vary":"Accept-Encoding","content-type":"application/json; charset=\"UTF-8\"","cache-control":"max-age=0, no-cache, no-store, must-revalidate","transfer-encoding":"chunked","connection":"keep-alive","keep-alive":"timeout=20","x-xss-protection":"1; mode=block","expires":"0"},"config":{"transformRequest":{},"transformResponse":{},"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"headers":{"Accept":"application/json, text/plain, */*"},"method":"get","params":{"api":"SYNO.FileStation.Sharing","version":"3","method":"create","path":"/dr_it/Lines.txt","_sid":"eYooi4CDvQqa.1470M9N607200"},"url":"http://dr_nas.fenix-mfg.com:5000/webapi/entry.cgi"},"request":{}} 
+16:46:17.515 DEBUG http://dr_nas.fenix-mfg.com:5000/sharing/oXNFA27gz 
+16:46:17.694 DEBUG Logout successful 
+10:30:34.372 DEBUG appArgv = C:\Lines.txt 
+10:30:34.319 DEBUG  
+10:30:34.372 DEBUG Drive letter: c 
+10:30:34.532 DEBUG Invalid file 
+10:35:45.137 DEBUG appArgv = C:\Lines.txt 
+10:35:45.084 DEBUG  
+10:35:45.137 DEBUG Drive letter: c 
+10:35:45.270 DEBUG Invalid file 
+10:37:19.540 DEBUG appArgv = C:\Lines.txt 
+10:37:19.482 DEBUG  
+10:37:19.540 DEBUG Drive letter: c 
+10:37:19.669 DEBUG Invalid file 
+10:39:28.171 DEBUG appArgv = C:\Lines.txt 
+10:39:28.118 DEBUG  
+10:39:28.171 DEBUG Drive letter: c 
+10:39:28.310 DEBUG Invalid file 
+10:47:10.251 DEBUG appArgv = C:\Lines.txt 
+10:47:10.204 DEBUG  
+10:47:10.251 DEBUG Drive letter: c 
+10:47:10.361 DEBUG Invalid file 
+10:47:38.132 DEBUG appArgv = C:\Lines.txt 
+10:47:38.065 DEBUG  
+10:47:38.132 DEBUG Drive letter: c 
+10:47:38.424 DEBUG Invalid file 
+10:48:39.878 DEBUG appArgv = C:\Lines.txt 
+10:48:39.805 DEBUG  
+10:48:39.878 DEBUG Drive letter: c 
+10:48:40.054 DEBUG Invalid file 
+10:49:56.815 DEBUG appArgv = C:\Lines.txt 
+10:49:56.764 DEBUG  
+10:49:56.815 DEBUG Drive letter: c 
+10:49:56.957 DEBUG Invalid file 
+10:50:02.069 DEBUG appArgv = C:\Lines.txt 
+10:50:02.007 DEBUG  
+10:50:02.070 DEBUG Drive letter: c 
+10:50:02.220 DEBUG Invalid file 
+10:51:05.007 DEBUG appArgv = C:\Lines.txt 
+10:51:04.941 DEBUG  
+10:51:05.007 DEBUG Drive letter: c 
+10:51:05.248 DEBUG Invalid file 
+10:52:00.268 DEBUG appArgv = C:\Lines.txt 
+10:52:00.207 DEBUG  
+10:52:00.268 DEBUG Drive letter: c 
+10:52:00.401 DEBUG Invalid file 
+10:53:17.594 DEBUG appArgv = C:\Lines.txt 
+10:53:17.547 DEBUG  
+10:53:17.594 DEBUG Drive letter: c 
+10:53:17.724 DEBUG Invalid file 
+10:54:46.247 DEBUG appArgv = C:\Lines.txt 
+10:54:46.187 DEBUG  
+10:54:46.247 DEBUG Drive letter: c 
+10:54:46.517 DEBUG Invalid file 
+11:34:18.257 DEBUG appArgv = C:\Lines.txt 
+11:34:18.215 DEBUG  
+11:34:18.257 DEBUG Drive letter: c 
+11:34:18.376 DEBUG Invalid file 
+11:41:38.908 DEBUG appArgv = C:\Lines.txt 
+11:41:38.842 DEBUG  
+11:41:38.908 DEBUG Drive letter: c 
+11:41:39.060 DEBUG Invalid file 
+13:35:19.531 DEBUG appArgv = C:\Lines.txt 
+13:35:19.481 DEBUG  
+13:35:19.531 DEBUG Drive letter: c 
+13:35:19.653 DEBUG Invalid file 
+13:37:50.899 DEBUG appArgv = C:\Lines.txt 
+13:37:50.846 DEBUG  
+13:37:50.899 DEBUG Drive letter: c 
+13:37:51.027 DEBUG Invalid file 
+13:38:21.300 DEBUG appArgv = C:\Lines.txt 
+13:38:21.231 DEBUG  
+13:38:21.300 DEBUG Drive letter: c 
+13:38:21.417 DEBUG Invalid file 

@@ -1,0 +1,31 @@
+{
+  "presets": [["es2015" , {"modules": false}]],
+  "comments": false,
+  "plugins": [
+    ["transform-runtime"],
+    [ "component", {
+      "libraryName": "elment-ui",
+      "styleLibraryName": "theme-chalk"
+    }]
+    ],
+  "env": {
+    "main": {
+      "presets": [["env", { "modules": false }], "stage-0"],
+      "plugins": [
+    [ "component", {
+      "libraryName": "elment-ui",
+      "styleLibraryName": "theme-chalk"
+    }]
+    ]
+    },
+    "bg": {
+      "presets": [["env", { "modules": false }], "stage-0"],
+      "plugins": [
+    [ "component", {
+      "libraryName": "elment-ui",
+      "styleLibraryName": "theme-chalk"
+    }]
+    ]
+    }
+  }
+}
